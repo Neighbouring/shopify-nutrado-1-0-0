@@ -515,6 +515,13 @@
     "video_reels_xexCWw": {
       "type": "video-reels",
       "blocks": {
+        "product_JVKChr": {
+          "type": "product",
+          "settings": {
+            "video_hosted": "shopify://files/videos/pugli - qimunne e quercetina.mp4",
+            "featured_product": "kit-essencial"
+          }
+        },
         "product_ftfnwQ": {
           "type": "product",
           "settings": {
@@ -532,41 +539,39 @@
         "product_AtNXwi": {
           "type": "product",
           "settings": {
-            "featured_product": ""
+            "video_hosted": "shopify://files/videos/02_UGC_Tiktok_Magnésio.mov",
+            "featured_product": "duomag"
           }
         },
         "product_jDXyME": {
           "type": "product",
           "settings": {
+            "video_hosted": "shopify://files/videos/WhatsApp Video 2025-04-26 at 12.53.18.mp4",
             "featured_product": ""
           }
         },
         "product_DCCbmt": {
           "type": "product",
           "settings": {
-            "featured_product": ""
-          }
-        },
-        "product_JVKChr": {
-          "type": "product",
-          "settings": {
+            "video_hosted": "shopify://files/videos/Coenzima .mov",
             "featured_product": ""
           }
         },
         "product_hpQeLR": {
           "type": "product",
           "settings": {
-            "featured_product": ""
+            "video_hosted": "shopify://files/videos/01_Quercetina_AD (3).mov",
+            "featured_product": "quercetina"
           }
         }
       },
       "block_order": [
+        "product_JVKChr",
         "product_ftfnwQ",
         "product_gQyi3f",
         "product_AtNXwi",
         "product_jDXyME",
         "product_DCCbmt",
-        "product_JVKChr",
         "product_hpQeLR"
       ],
       "settings": {
