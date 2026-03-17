@@ -21,6 +21,7 @@
     "color-action-text": "#052333",
     "color-action-background": "#d89bba",
     "color-success-background": "#e5ffe5",
+    "iconset": "option_1",
     "content_for_index": []
   }
 }
