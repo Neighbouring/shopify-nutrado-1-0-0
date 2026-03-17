@@ -313,6 +313,7 @@
       "block_order": [
         "heading_YkTMiz"
       ],
+      "disabled": true,
       "settings": {
         "section_width": "regular",
         "desktop_text_horizontal_position": "center",
@@ -362,7 +363,7 @@
         "product_qRAMTG"
       ],
       "settings": {
-        "heading": "",
+        "heading": "Sua Rotina Diária",
         "full-width-enabled": false,
         "quick-add-enabled": true,
         "rewind-enabled": true,
@@ -376,7 +377,7 @@
         "color-overlay": "#f7f3df",
         "color-overlay-opacity": 100,
         "color-body-text": "#052333",
-        "margin-top": 0,
+        "margin-top": 8,
         "margin-bottom": 0
       }
     },
