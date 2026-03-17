@@ -24,6 +24,11 @@
     "color-button-primary-text": "#052333",
     "color-button-primary-text-hover": "#052333",
     "color-button-primary-background-hover": "#ffffff",
+    "color-button-secondary-background": "#f6a74a",
+    "color-button-secondary-border": "#052333",
+    "color-button-secondary-text": "#052333",
+    "color-button-secondary-text-hover": "#f6a74a",
+    "color-button-secondary-background-hover": "#052333",
     "color-success-background": "#e5ffe5",
     "iconset": "option_1",
     "content_for_index": []
