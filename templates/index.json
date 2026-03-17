@@ -317,7 +317,7 @@
         "section_width": "regular",
         "desktop_text_horizontal_position": "center",
         "color-body-text": "#052333",
-        "background_color": "#d89bba",
+        "background_color": "#f6a74a",
         "background_gradient": "",
         "margin-top": 36,
         "margin-bottom": 0
@@ -364,7 +364,7 @@
         "mobile_fixed_height": 600,
         "enable_full_screen_mode": false,
         "color-body-heading": "#000000",
-        "color-overlay": "#d89bba",
+        "color-overlay": "#f6a74a",
         "color-overlay-opacity": 100,
         "color-body-text": "#000000",
         "margin-top": 0,
@@ -377,10 +377,10 @@
         "button_select": "link",
         "button_horizontal_position": "center",
         "button_label": "View all products",
-        "button_link": "",
+        "button_link": "shopify://collections/all",
         "margin-top": 32,
         "margin-bottom": 60,
-        "background_color": "#d89bba"
+        "background_color": "#f6a74a"
       }
     },
     "1644542625dcf6daf0": {
