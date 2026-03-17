@@ -436,9 +436,10 @@
             "text_color": "",
             "background_color": "#5dab71",
             "heading": "Revitalizes the Skin!",
-            "text": "",
-            "promo_text_color": "#6f99c3",
-            "desktop_text_vertical_position": "bottom",
+            "text": "<p>yu i gnmnbmbnbn</p>",
+            "promo_text_color": "#5dab71",
+            "desktop_image": "shopify://shop_images/g.avif",
+            "desktop_text_vertical_position": "center",
             "desktop_text_horizontal_position": "left",
             "mobile_text_horizontal_position": "center"
           }
@@ -446,14 +447,17 @@
         "product_8JxXkK": {
           "type": "product",
           "settings": {
-            "slider_product": "",
+            "slider_product": "duomag",
+            "product_image": "shopify://shop_images/f.avif",
             "text_color": "rgba(0,0,0,0)",
-            "background_color": "#5dab71",
+            "background_color": "rgba(0,0,0,0)",
             "heading": "Your headline",
             "text": "<p>Tell your story</p>",
             "promo_text_color": "#5dab71",
+            "desktop_image": "shopify://shop_images/f.avif",
             "desktop_text_vertical_position": "center",
-            "desktop_text_horizontal_position": "center",
+            "desktop_text_horizontal_position": "left",
+            "mobile_image": "shopify://shop_images/f.avif",
             "mobile_text_horizontal_position": "center"
           }
         },
@@ -466,7 +470,7 @@
             "heading": "Improves Skin Hydration!",
             "text": "",
             "promo_text_color": "#f6a74a",
-            "desktop_text_vertical_position": "bottom",
+            "desktop_text_vertical_position": "center",
             "desktop_text_horizontal_position": "left",
             "mobile_text_horizontal_position": "center"
           }
@@ -480,7 +484,7 @@
             "heading": "Improves Skin Hydration!",
             "text": "",
             "promo_text_color": "#d89bba",
-            "desktop_text_vertical_position": "bottom",
+            "desktop_text_vertical_position": "center",
             "desktop_text_horizontal_position": "left",
             "mobile_text_horizontal_position": "center"
           }
