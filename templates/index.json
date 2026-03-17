@@ -518,7 +518,8 @@
         "product_ftfnwQ": {
           "type": "product",
           "settings": {
-            "featured_product": ""
+            "video_hosted": "shopify://files/videos/QUERCETINA - NANDA.mp4",
+            "featured_product": "quercetina"
           }
         },
         "product_gQyi3f": {
