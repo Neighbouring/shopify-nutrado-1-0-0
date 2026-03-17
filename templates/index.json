@@ -525,7 +525,8 @@
         "product_gQyi3f": {
           "type": "product",
           "settings": {
-            "featured_product": ""
+            "video_hosted": "shopify://files/videos/copy_D3B4E7A6-D600-4900-ABC7-2EE20EE609D0.mp4",
+            "featured_product": "duomag"
           }
         },
         "product_AtNXwi": {
