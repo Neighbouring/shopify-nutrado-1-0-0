@@ -119,11 +119,15 @@
             "button_disable_on_mobile": false,
             "button_link": "",
             "button_link_in_new_window": false,
-            "color-body-text": "rgba(0,0,0,0)",
-            "color-overlay": "rgba(0,0,0,0)",
+            "color-body-text": "#052333",
+            "color-overlay": "#6f99c3",
             "color-overlay-opacity": 0,
+            "video_hosted": "shopify://files/videos/vide-hero.mp4",
+            "desktop_image": "shopify://shop_images/hero-1.avif",
             "desktop_text_vertical_position": "bottom",
             "desktop_text_horizontal_position": "center",
+            "video_hosted_mobile": "shopify://files/videos/vide-hero.mp4",
+            "mobile_image": "shopify://shop_images/g.avif",
             "mobile_text_vertical_position": "bottom",
             "mobile_text_horizontal_position": "center"
           }
