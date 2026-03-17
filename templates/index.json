@@ -192,8 +192,8 @@
         "button_link1": "",
         "image_2": "shopify://shop_images/e.jpg",
         "button_link2": "",
-        "color-body-text": "rgba(0,0,0,0)",
-        "background_color": "rgba(0,0,0,0)",
+        "color-body-text": "#052333",
+        "background_color": "#ffffff",
         "margin-top": 0,
         "margin-bottom": 0
       }
@@ -288,7 +288,7 @@
         "animation": "marquee",
         "animation_speed": "100",
         "color-body-text": "rgba(0,0,0,0)",
-        "background_color": "#d89bba",
+        "background_color": "#ffffff",
         "margin-top": 20,
         "margin-bottom": 0
       }
