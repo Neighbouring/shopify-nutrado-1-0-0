@@ -388,7 +388,7 @@
         "button_horizontal_position": "center",
         "button_label": "View all products",
         "button_link": "shopify://collections/all",
-        "margin-top": 32,
+        "margin-top": 12,
         "margin-bottom": 28,
         "background_color": "#f7f3df"
       }
