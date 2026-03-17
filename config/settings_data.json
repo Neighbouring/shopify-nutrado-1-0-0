@@ -34,6 +34,8 @@
     "color-star-rating": "#f6a74a",
     "color-sale-badge-text": "#ffffff",
     "color-sale-badge-background": "#d89bba",
+    "color-sold-out-text": "#ffffff",
+    "color-sold-out-background": "#6f99c3",
     "color-success-background": "#e5ffe5",
     "iconset": "option_1",
     "content_for_index": []
