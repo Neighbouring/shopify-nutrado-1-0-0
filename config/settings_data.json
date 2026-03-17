@@ -43,13 +43,20 @@
     "color-success-background": "#e5ffe5",
     "color-footer-background": "#052333",
     "color-footer-text": "#f7f3df",
+    "cart_show_order_note": false,
     "cart_additional_service_name": "Embalagem Para Presente",
+    "show_view_cart": false,
     "collection_cross_sells": "mais-vendidos",
     "product_list_cross_sells": [
       "kit-essencial",
       "q-energy",
       "imune"
     ],
+    "enable_free_shipping_bar": true,
+    "free_shipping_bar_amount": "150",
+    "free_shipping_bar_text": "Adicione ||amount|| e Ganhe Frete Grátis!",
+    "free_shipping_bar_text_success": "Você Ganhou Frete Grátis!",
+    "currency_code_enabled": false,
     "iconset": "option_1",
     "content_for_index": []
   }
