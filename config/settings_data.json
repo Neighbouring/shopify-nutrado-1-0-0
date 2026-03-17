@@ -29,6 +29,11 @@
     "color-button-secondary-text": "#052333",
     "color-button-secondary-text-hover": "#f6a74a",
     "color-button-secondary-background-hover": "#052333",
+    "color-price": "#052333",
+    "color-sale-price": "#5dab71",
+    "color-star-rating": "#f6a74a",
+    "color-sale-badge-text": "#ffffff",
+    "color-sale-badge-background": "#d89bba",
     "color-success-background": "#e5ffe5",
     "iconset": "option_1",
     "content_for_index": []
