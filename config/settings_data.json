@@ -43,6 +43,13 @@
     "color-success-background": "#e5ffe5",
     "color-footer-background": "#052333",
     "color-footer-text": "#f7f3df",
+    "cart_additional_service_name": "Embalagem Para Presente",
+    "collection_cross_sells": "mais-vendidos",
+    "product_list_cross_sells": [
+      "kit-essencial",
+      "q-energy",
+      "imune"
+    ],
     "iconset": "option_1",
     "content_for_index": []
   }
