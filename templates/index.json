@@ -193,7 +193,7 @@
         "image_2": "shopify://shop_images/e.jpg",
         "button_link2": "",
         "color-body-text": "#052333",
-        "background_color": "#ffffff",
+        "background_color": "#f7f3df",
         "margin-top": 0,
         "margin-bottom": 0
       }
@@ -288,7 +288,7 @@
         "animation": "marquee",
         "animation_speed": "100",
         "color-body-text": "rgba(0,0,0,0)",
-        "background_color": "#ffffff",
+        "background_color": "#f7f3df",
         "margin-top": 20,
         "margin-bottom": 0
       }
@@ -400,15 +400,15 @@
         "title": "Mais Vendidos",
         "heading_richtext": "<h2>Your headline here</h2>",
         "disable_on_mobile": false,
-        "hide_empty_section": false,
+        "hide_empty_section": true,
         "collection": "mais-vendidos",
         "product_list": [],
-        "products_to_show": 12,
+        "products_to_show": 6,
         "enable_stack_products": false,
         "show_view_all": true,
         "button_select": "link",
-        "number_of_column_desktop": 4,
-        "spacing_desktop": "24",
+        "number_of_column_desktop": 3,
+        "spacing_desktop": "16",
         "make_products_full_width": false,
         "number_of_column_mobile": 1.4,
         "spacing_mobile": "16",
