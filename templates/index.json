@@ -70,9 +70,11 @@
             "color-body-text": "rgba(0,0,0,0)",
             "color-overlay": "rgba(0,0,0,0)",
             "color-overlay-opacity": 0,
+            "video_hosted": "shopify://files/videos/vide-hero.mp4",
             "desktop_image": "shopify://shop_images/g.avif",
             "desktop_text_vertical_position": "bottom",
             "desktop_text_horizontal_position": "center",
+            "video_hosted_mobile": "shopify://files/videos/vide-hero.mp4",
             "mobile_image": "shopify://shop_images/hero-b.png",
             "mobile_text_vertical_position": "center",
             "mobile_text_horizontal_position": "center"
@@ -131,7 +133,7 @@
         "1645137069a9c97a90-0"
       ],
       "settings": {
-        "advanced_heading": false,
+        "advanced_heading": true,
         "title": "",
         "heading_richtext": "<h2>Your headline here</h2>",
         "swipe_on_mobile": true,
