@@ -130,9 +130,9 @@
       ],
       "settings": {
         "advanced_heading": false,
-        "title": "c",
+        "title": "",
         "heading_richtext": "<h2>Your headline here</h2>",
-        "swipe_on_mobile": false,
+        "swipe_on_mobile": true,
         "full-width-enabled": false,
         "image_ratio": "adapt",
         "color-body-text": "rgba(0,0,0,0)",
