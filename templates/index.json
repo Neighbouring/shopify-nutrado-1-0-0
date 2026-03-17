@@ -133,14 +133,14 @@
         "1645137069a9c97a90-0"
       ],
       "settings": {
-        "advanced_heading": true,
+        "advanced_heading": false,
         "title": "",
         "heading_richtext": "<h2>Your headline here</h2>",
-        "swipe_on_mobile": true,
-        "full-width-enabled": false,
+        "swipe_on_mobile": false,
+        "full-width-enabled": true,
         "image_ratio": "portrait",
         "color-body-text": "rgba(0,0,0,0)",
-        "background_color": "#f7f3df",
+        "background_color": "rgba(0,0,0,0)",
         "margin-top": 0,
         "margin-bottom": 0
       }
