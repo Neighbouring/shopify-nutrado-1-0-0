@@ -1,3 +1,12 @@
+/*
+ * ------------------------------------------------------------
+ * IMPORTANT: The contents of this file are auto-generated.
+ *
+ * This file may be updated by the Shopify admin theme editor
+ * or related systems. Please exercise caution as any changes
+ * made to this file may be overwritten.
+ * ------------------------------------------------------------
+ */
 {
   "type": "footer",
   "name": "Footer Group",
@@ -9,21 +18,21 @@
           "type": "menu",
           "settings": {
             "heading_links": "Categories",
-            "links": "categories"
+            "links": ""
           }
         },
         "menu_DzCNd6": {
           "type": "menu",
           "settings": {
             "heading_links": "Customer Service",
-            "links": "customer-service"
+            "links": ""
           }
         },
         "menu_9YUhCX": {
           "type": "menu",
           "settings": {
             "heading_links": "Information",
-            "links": "information"
+            "links": ""
           }
         },
         "text_DY7pny": {
@@ -41,7 +50,7 @@
         "text_DY7pny"
       ],
       "settings": {
-        "show-scroll-effect": false,
+        "show-scroll-effect": true,
         "show-social-media-icons": true,
         "show_country_selector": true,
         "show_country_selector_label": true,
@@ -51,7 +60,6 @@
         "show-payments-icons": true,
         "show-copyright": false,
         "text": "© 2026 Wonder Fashion Demo.  Powered by Shopify.",
-        "big-logo": "",
         "big-logo-width": 100,
         "margin-top": 56,
         "margin-bottom": 8
