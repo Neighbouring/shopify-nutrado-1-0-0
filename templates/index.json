@@ -326,29 +326,37 @@
     "shoppable_video_BjfJTR": {
       "type": "shoppable-video",
       "blocks": {
+        "product_PxReRf": {
+          "type": "product",
+          "settings": {
+            "start_second": 50,
+            "featured_product": "imune"
+          }
+        },
         "product_a96zJX": {
           "type": "product",
           "settings": {
             "start_second": 3,
-            "featured_product": ""
+            "featured_product": "duomag"
           }
         },
         "product_DyzE7d": {
           "type": "product",
           "settings": {
             "start_second": 6.5,
-            "featured_product": ""
+            "featured_product": "coenzima-q10"
           }
         },
         "product_qRAMTG": {
           "type": "product",
           "settings": {
             "start_second": 14,
-            "featured_product": ""
+            "featured_product": "beauty"
           }
         }
       },
       "block_order": [
+        "product_PxReRf",
         "product_a96zJX",
         "product_DyzE7d",
         "product_qRAMTG"
@@ -359,6 +367,7 @@
         "quick-add-enabled": true,
         "rewind-enabled": true,
         "hide-brand-name": false,
+        "video_hosted": "shopify://files/videos/NUTRADO - Intro - 01A.mp4",
         "video_custom_mute_controls": false,
         "desktop_fixed_height": 700,
         "mobile_fixed_height": 600,
