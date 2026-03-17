@@ -579,12 +579,12 @@
         "heading": "Elas Amam!",
         "heading_richtext": "<h2>Your headline here</h2>",
         "quick-add-enabled": true,
-        "hide-brand-name": false,
-        "video_button": false,
-        "color-body-text": "rgba(0,0,0,0)",
+        "hide-brand-name": true,
+        "video_button": true,
+        "color-body-text": "#052333",
         "background_color": "#f7f3df",
-        "margin-top": 60,
-        "margin-bottom": 68
+        "margin-top": 100,
+        "margin-bottom": 100
       }
     },
     "1645292346f968677d": {
