@@ -97,8 +97,10 @@
             "color-body-text": "rgba(0,0,0,0)",
             "color-overlay": "rgba(0,0,0,0)",
             "color-overlay-opacity": 0,
+            "desktop_image": "shopify://shop_images/h.avif",
             "desktop_text_vertical_position": "bottom",
             "desktop_text_horizontal_position": "center",
+            "mobile_image": "shopify://shop_images/g.avif",
             "mobile_text_vertical_position": "bottom",
             "mobile_text_horizontal_position": "center"
           }
