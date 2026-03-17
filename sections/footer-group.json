@@ -58,7 +58,7 @@
         "show_language_selector": false,
         "enable_follow_on_shop": true,
         "show-payments-icons": true,
-        "show-copyright": false,
+        "show-copyright": true,
         "text": "Nutrado © 2026",
         "big-logo": "shopify://shop_images/nutrado-logotipo-01.svg",
         "big-logo-width": 100,
