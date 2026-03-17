@@ -52,17 +52,18 @@
       "settings": {
         "show-scroll-effect": true,
         "show-social-media-icons": true,
-        "show_country_selector": true,
+        "show_country_selector": false,
         "show_country_selector_label": true,
         "show_country_selector_flag": true,
         "show_language_selector": false,
         "enable_follow_on_shop": true,
         "show-payments-icons": true,
         "show-copyright": false,
-        "text": "© 2026 Wonder Fashion Demo.  Powered by Shopify.",
+        "text": "Nutrado © 2026",
+        "big-logo": "shopify://shop_images/nutrado-logotipo-01.svg",
         "big-logo-width": 100,
-        "margin-top": 56,
-        "margin-bottom": 8
+        "margin-top": 100,
+        "margin-bottom": 100
       }
     }
   },
