@@ -157,10 +157,10 @@
         "heading_rtNxib": {
           "type": "heading",
           "settings": {
-            "heading": "Lorem Ipsum Dolor",
+            "heading": "Saúde é uma riqueza!",
             "disable_on_mobile": false,
-            "size_heading": 300,
-            "size_heading_mobile": 160
+            "size_heading": 200,
+            "size_heading_mobile": 140
           }
         },
         "text_FPNX9w": {
