@@ -109,7 +109,8 @@
       "type": "page-header-logo-banner",
       "custom_css": [],
       "settings": {
-        "logo_image": "shopify://shop_images/nutrado-logotipo-02.svg",
+        "logo_image": "shopify://shop_images/nutrado-logotipo-01.svg",
+        "video_hosted": "shopify://files/videos/NUTRADO - Intro - 01A.mp4",
         "video_hosted_mobile": "shopify://files/videos/NUTRADO - Intro - 01A.mp4",
         "additional_text": "",
         "button_style": "link",
