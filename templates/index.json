@@ -317,7 +317,7 @@
         "section_width": "regular",
         "desktop_text_horizontal_position": "center",
         "color-body-text": "#052333",
-        "background_color": "#f6a74a",
+        "background_color": "#f7f3df",
         "background_gradient": "",
         "margin-top": 36,
         "margin-bottom": 0
@@ -373,7 +373,7 @@
         "mobile_fixed_height": 560,
         "enable_full_screen_mode": false,
         "color-body-heading": "#052333",
-        "color-overlay": "#f6a74a",
+        "color-overlay": "#f7f3df",
         "color-overlay-opacity": 100,
         "color-body-text": "#052333",
         "margin-top": 0,
@@ -389,7 +389,7 @@
         "button_link": "shopify://collections/all",
         "margin-top": 32,
         "margin-bottom": 60,
-        "background_color": "#f6a74a"
+        "background_color": "#f7f3df"
       }
     },
     "1644542625dcf6daf0": {
