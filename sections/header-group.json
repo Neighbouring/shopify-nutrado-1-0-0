@@ -27,11 +27,19 @@
             "text": "Frete Grátis para Todo o Brasil",
             "link": ""
           }
+        },
+        "announcement_zWmKGx": {
+          "type": "announcement",
+          "settings": {
+            "text": "#ViverBonsMomentos",
+            "link": ""
+          }
         }
       },
       "block_order": [
         "announcement_pHd987",
-        "announcement_YnK6g6"
+        "announcement_YnK6g6",
+        "announcement_zWmKGx"
       ],
       "settings": {
         "marquee": true,
