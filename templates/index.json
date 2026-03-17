@@ -157,9 +157,9 @@
         "heading_rtNxib": {
           "type": "heading",
           "settings": {
-            "heading": "Saúde é uma riqueza!",
+            "heading": "Saúde é Uma Riqueza!",
             "disable_on_mobile": false,
-            "size_heading": 200,
+            "size_heading": 260,
             "size_heading_mobile": 140
           }
         },
