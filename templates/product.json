@@ -25,10 +25,7 @@
         "title": {
           "type": "title",
           "settings": {
-            "brand": "{{ product.metafields.custom.quantity_caps.value }}",
-            "enable_vendor_link": false,
-            "size_text": 200,
-            "size_text_mobile": 200
+            "brand": "{{ product.metafields.custom.quantity_caps.value }}"
           }
         },
         "feature_tags_44iTGm": {
