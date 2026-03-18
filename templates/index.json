@@ -314,7 +314,7 @@
             "icon_select": "100",
             "text": "<p>\"Sempre fui criteriosa com suplementos e o que me atraiu na Nutrado foi a transparência das fórmulas e o background industrial deles. Uso o Kit Bem-Estar & Longevidade há três meses. Notei uma melhora absurda na qualidade do meu sono e na minha disposição geral. É nítido que são produtos desenvolvidos com seriedade, sem excessos desnecessários.\"</p>",
             "desktop_image": "shopify://shop_images/depoimento-avatar_14.jpg",
-            "large_screen_logo_width": 80,
+            "large_screen_logo_width": 100,
             "mobile_screen_logo_width": 90,
             "author": "Helena S., 32 anos"
           }
@@ -323,26 +323,39 @@
           "type": "image",
           "settings": {
             "icon_select": "100",
-            "text": "<p>\"I love Mokosh brand products , it absorbs quickly, for the day I use together with the cream, for the night only oil alone. <br/>I feel that the skin is very well moisturized and is not greasy. I recommend.\"</p>",
-            "large_screen_logo_width": 80,
+            "text": "<p>\"Como trabalho muitas horas na frente do computador e ainda tento manter minha rotina de treinos, o cansaço mental era constante. Comecei a usar o Magnésio e a Coenzima Q10 da Nutrado e o que mais me impressionou foi a estabilidade da energia. Não é aquele 'pico' de cafeína, é uma disposição real que dura o dia todo. Sinto que meu corpo finalmente está recebendo o suporte que precisa.\"</p>",
+            "desktop_image": "shopify://shop_images/depoimento-avatar_5.jpg",
+            "large_screen_logo_width": 100,
             "mobile_screen_logo_width": 90,
-            "author": "Monika R."
+            "author": "Ricardo M., 38 anos"
+          }
+        },
+        "image_TjqyLd": {
+          "type": "image",
+          "settings": {
+            "icon_select": "100",
+            "text": "<p>\"Incluir a Nutrado no meu dia a dia foi uma das melhores decisões para o meu bem-estar. O Beauty se tornou meu queridinho; percebo minha pele muito mais viçosa e hidratada. Adoro a filosofia da marca de que a saúde é um investimento constante. É um cuidado que começa de dentro e realmente transparece no meu ânimo para #VIVERBONSMOMENTOS.\"</p>",
+            "desktop_image": "shopify://shop_images/depoimento-avatar_12.jpg",
+            "large_screen_logo_width": 100,
+            "mobile_screen_logo_width": 90,
+            "author": "Mariana L., 29 anos"
           }
         },
         "e15dcbd0-bf98-4d71-abed-51a2799236e6": {
           "type": "image",
           "settings": {
             "icon_select": "100",
-            "text": "<p>\"Mokosh Face Cream is a skincare hero. It absorbs quickly, leaving my skin supple and glowing. A must for anyone craving a natural, effective moisturizer.\"</p>",
+            "text": "<p>\"Incluir a Nutrado no meu dia a dia foi uma das melhores decisões para o meu bem-estar. O Beauty se tornou meu queridinho; percebo minha pele muito mais viçosa e hidratada. Adoro a filosofia da marca de que a saúde é um investimento constante. É um cuidado que começa de dentro e realmente transparece no meu ânimo para #VIVERBONSMOMENTOS.</p>",
             "large_screen_logo_width": 80,
             "mobile_screen_logo_width": 90,
-            "author": "Anna P."
+            "author": "Mariana L., 29 anos"
           }
         }
       },
       "block_order": [
         "1645722764301b2090-0",
         "1645722764301b2090-1",
+        "image_TjqyLd",
         "e15dcbd0-bf98-4d71-abed-51a2799236e6"
       ],
       "settings": {
