@@ -434,12 +434,11 @@
           "settings": {
             "slider_product": "coenzima-q10",
             "product_image": "shopify://shop_images/q10.png",
-            "text_color": "#000000",
+            "text_color": "#f7f3df",
             "background_color": "#449e5f",
-            "heading": "Revitalizes the Skin!",
-            "text": "<p>yu i gnmnbmbnbn</p>",
-            "promo_text_color": "#5dab71",
-            "desktop_image": "shopify://shop_images/g.avif",
+            "heading": "{{ block.settings.slider_product.metafields.custom.subtitulo_de_produto.value }}",
+            "text": "<p>{{ block.settings.slider_product.metafields.custom.beneficios | metafield_tag }}</p>",
+            "promo_text_color": "#449e5f",
             "desktop_text_vertical_position": "center",
             "desktop_text_horizontal_position": "center",
             "mobile_text_horizontal_position": "center"
@@ -452,13 +451,11 @@
             "product_image": "shopify://shop_images/mag.png",
             "text_color": "#f7f3df",
             "background_color": "#b57619",
-            "heading": "{{ block.settings.slider_product.title }}",
-            "text": "<p>{{ block.settings.slider_product.metafields.custom.subtitulo_de_produto.value }}</p>",
+            "heading": "{{ block.settings.slider_product.metafields.custom.subtitulo_de_produto.value }}",
+            "text": "<p>{{ block.settings.slider_product.metafields.custom.beneficios | metafield_tag }}</p>",
             "promo_text_color": "#b57619",
-            "desktop_image": "shopify://shop_images/f.avif",
             "desktop_text_vertical_position": "center",
             "desktop_text_horizontal_position": "center",
-            "mobile_image": "shopify://shop_images/f.avif",
             "mobile_text_horizontal_position": "center"
           }
         },
@@ -466,27 +463,29 @@
           "type": "product",
           "settings": {
             "slider_product": "curcumina",
-            "text_color": "",
-            "background_color": "#f6a74a",
-            "heading": "Improves Skin Hydration!",
-            "text": "",
-            "promo_text_color": "#f6a74a",
+            "product_image": "shopify://shop_images/curcumina_67e2f034-8abf-4959-9a46-c57b16cca5a5.png",
+            "text_color": "#f7f3df",
+            "background_color": "#d68244",
+            "heading": "{{ block.settings.slider_product.metafields.custom.subtitulo_de_produto.value }}",
+            "text": "<p>{{ block.settings.slider_product.metafields.custom.beneficios | metafield_tag }}</p>",
+            "promo_text_color": "#d68244",
             "desktop_text_vertical_position": "center",
-            "desktop_text_horizontal_position": "left",
+            "desktop_text_horizontal_position": "center",
             "mobile_text_horizontal_position": "center"
           }
         },
         "product_ex7ej8": {
           "type": "product",
           "settings": {
-            "slider_product": "curcumina",
-            "text_color": "",
-            "background_color": "#d89bba",
-            "heading": "Improves Skin Hydration!",
-            "text": "",
-            "promo_text_color": "#d89bba",
+            "slider_product": "beauty",
+            "product_image": "shopify://shop_images/beauty_6b8e2955-2ac2-42be-987d-a3e5a33e6714.png",
+            "text_color": "#f7f3df",
+            "background_color": "#c37198",
+            "heading": "{{ block.settings.slider_product.metafields.custom.subtitulo_de_produto.value }}",
+            "text": "<p>{{ block.settings.slider_product.metafields.custom.beneficios | metafield_tag }}</p>",
+            "promo_text_color": "#c37198",
             "desktop_text_vertical_position": "center",
-            "desktop_text_horizontal_position": "left",
+            "desktop_text_horizontal_position": "center",
             "mobile_text_horizontal_position": "center"
           }
         }
@@ -499,18 +498,18 @@
       ],
       "settings": {
         "heading": "",
-        "full-width-enabled": false,
+        "full-width-enabled": true,
         "text_alignment": "center",
-        "product_name_style": "body",
+        "product_name_style": "heading",
         "show_vendor": false,
-        "show_rating": false,
+        "show_rating": true,
         "layout": "left",
         "size_heading": 200,
-        "size_heading_mobile": 120,
-        "color-heading-text": "rgba(0,0,0,0)",
-        "section-color-overlay": "#ffffff",
-        "margin-top": 0,
-        "margin-bottom": 0
+        "size_heading_mobile": 150,
+        "color-heading-text": "#f7f3df",
+        "section-color-overlay": "#f7f3df",
+        "margin-top": 16,
+        "margin-bottom": 16
       }
     },
     "video_reels_xexCWw": {
