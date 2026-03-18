@@ -427,7 +427,7 @@
         "size_heading_mobile": 150,
         "color-heading-text": "#f7f3df",
         "section-color-overlay": "#f7f3df",
-        "margin-top": 40,
+        "margin-top": 100,
         "margin-bottom": 40
       }
     },
@@ -718,7 +718,7 @@
         "video_button": true,
         "color-body-text": "#111111",
         "background_color": "#f7f3df",
-        "margin-top": 40,
+        "margin-top": 100,
         "margin-bottom": 40
       }
     },
