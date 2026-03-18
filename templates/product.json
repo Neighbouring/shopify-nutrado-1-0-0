@@ -159,7 +159,7 @@
         "mobile-image": "small",
         "show-thumbnails-mobile": false,
         "text_color": "#052333",
-        "background_color": "rgba(0,0,0,0)",
+        "background_color": "#f4f4f4",
         "margin-top": 40,
         "margin-bottom": 40
       }
