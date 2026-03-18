@@ -815,10 +815,10 @@
         "164916093728eec38a-2"
       ],
       "settings": {
-        "color-body-text": "#f7f3df",
-        "background_color": "#000000",
-        "margin-top": 52,
-        "margin-bottom": 52
+        "color-body-text": "#111111",
+        "background_color": "#f6a74a",
+        "margin-top": 16,
+        "margin-bottom": 16
       }
     }
   },
