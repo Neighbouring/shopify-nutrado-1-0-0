@@ -552,6 +552,72 @@
         "margin-bottom": 16
       }
     },
+    "rich_text_Fx9gH6": {
+      "type": "rich-text",
+      "blocks": {
+        "heading_XcEDPt": {
+          "type": "heading",
+          "settings": {
+            "advanced_heading": true,
+            "heading": "FAQ",
+            "heading_richtext": "<h1><strong>FAQ</strong></h1>",
+            "disable_on_mobile": false,
+            "size_heading": 200,
+            "size_heading_mobile": 150,
+            "heading_richtext_color": "transparent",
+            "heading_richtext_gradient": ""
+          }
+        }
+      },
+      "block_order": [
+        "heading_XcEDPt"
+      ],
+      "name": "t:sections.rich-text.presets.name",
+      "settings": {
+        "section_width": "regular",
+        "desktop_text_horizontal_position": "center",
+        "color-body-text": "transparent",
+        "background_color": "transparent",
+        "background_gradient": "",
+        "margin-top": 16,
+        "margin-bottom": 0
+      }
+    },
+    "collapsible_menu_FneFH8": {
+      "type": "collapsible_menu",
+      "blocks": {
+        "collapsible_tab_dfLHVQ": {
+          "type": "collapsible_tab",
+          "settings": {
+            "heading": "FAQ1",
+            "content": "<p>a</p>",
+            "page": "",
+            "icon": "check_mark"
+          }
+        },
+        "collapsible_tab_ykTkYa": {
+          "type": "collapsible_tab",
+          "settings": {
+            "heading": "FAQ2",
+            "content": "<p>A</p>",
+            "page": "",
+            "icon": "check_mark"
+          }
+        }
+      },
+      "block_order": [
+        "collapsible_tab_dfLHVQ",
+        "collapsible_tab_ykTkYa"
+      ],
+      "name": "t:sections.collapsible_menu.presets.name",
+      "settings": {
+        "color-body-text": "#052333",
+        "background_color": "#f7f3df",
+        "compact-size-enabled": true,
+        "margin-top": 20,
+        "margin-bottom": 20
+      }
+    },
     "newsletter_THpGcz": {
       "type": "newsletter",
       "blocks": {
@@ -600,6 +666,8 @@
     "before_and_after_AFCUre",
     "image_with_text_B9aDaR",
     "video_reels_Wrqg99",
+    "rich_text_Fx9gH6",
+    "collapsible_menu_FneFH8",
     "newsletter_THpGcz"
   ]
 }
