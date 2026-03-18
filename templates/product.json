@@ -48,9 +48,8 @@
         "feature_tags_44iTGm": {
           "type": "feature_tags",
           "name": "Tags",
-          "disabled": true,
           "settings": {
-            "metafield": "custom.feature_tags",
+            "metafield": "90 CAPS{{ product.metafields.custom.quantity_caps.value }}",
             "limit": 4,
             "text_color": "#717171",
             "border_color": "#ececec"
