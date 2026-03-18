@@ -128,19 +128,6 @@
             "page": "",
             "icon": "none"
           }
-        },
-        "upsell_Fzh866": {
-          "type": "upsell",
-          "disabled": true,
-          "settings": {
-            "heading": "Você também vai querer levar",
-            "product_upsell": [
-              "beauty"
-            ],
-            "show_vendor": false,
-            "image-ratio": "square",
-            "button_select": "primary"
-          }
         }
       },
       "block_order": [
@@ -154,8 +141,7 @@
         "buy_buttons",
         "collapsible_tab_7KtLVR",
         "5fed6e0f-fb7e-4874-8ba9-3321623fc828",
-        "collapsible_tab_Ej8z8n",
-        "upsell_Fzh866"
+        "collapsible_tab_Ej8z8n"
       ],
       "custom_css": [],
       "settings": {
