@@ -63,7 +63,7 @@
     "iconset": "option_3",
     "enable-bag-icon": false,
     "animations": true,
-    "disabled_animations_on_mobile": true,
+    "disabled_animations_on_mobile": false,
     "content_for_index": []
   }
 }
