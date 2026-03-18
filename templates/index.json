@@ -404,7 +404,7 @@
           "settings": {
             "slider_product": "coenzima-q10",
             "product_image": "shopify://shop_images/q10.png",
-            "text_color": "#f7f3df",
+            "text_color": "#f4f4f4",
             "background_color": "#449e5f",
             "heading": "{{ block.settings.slider_product.metafields.custom.subtitulo_de_produto.value }}",
             "text": "<p>{{ block.settings.slider_product.metafields.custom.beneficios | metafield_tag }}</p>",
@@ -419,7 +419,7 @@
           "settings": {
             "slider_product": "duomag",
             "product_image": "shopify://shop_images/mag.png",
-            "text_color": "#f7f3df",
+            "text_color": "#f4f4f4",
             "background_color": "#b57619",
             "heading": "{{ block.settings.slider_product.metafields.custom.subtitulo_de_produto.value }}",
             "text": "<p>{{ block.settings.slider_product.metafields.custom.beneficios | metafield_tag }}</p>",
@@ -434,7 +434,7 @@
           "settings": {
             "slider_product": "curcumina",
             "product_image": "shopify://shop_images/curcumina_67e2f034-8abf-4959-9a46-c57b16cca5a5.png",
-            "text_color": "#f7f3df",
+            "text_color": "#f4f4f4",
             "background_color": "#d68244",
             "heading": "{{ block.settings.slider_product.metafields.custom.subtitulo_de_produto.value }}",
             "text": "<p>{{ block.settings.slider_product.metafields.custom.beneficios | metafield_tag }}</p>",
@@ -449,7 +449,7 @@
           "settings": {
             "slider_product": "beauty",
             "product_image": "shopify://shop_images/beauty_6b8e2955-2ac2-42be-987d-a3e5a33e6714.png",
-            "text_color": "#f7f3df",
+            "text_color": "#f4f4f4",
             "background_color": "#c37198",
             "heading": "{{ block.settings.slider_product.metafields.custom.subtitulo_de_produto.value }}",
             "text": "<p>{{ block.settings.slider_product.metafields.custom.beneficios | metafield_tag }}</p>",
