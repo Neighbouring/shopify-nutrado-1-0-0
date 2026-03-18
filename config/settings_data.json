@@ -56,6 +56,8 @@
     "type_headings_font_size_desk": 30,
     "type_navigation_font_size_desk": 15,
     "type_button_font_size_desk": 15,
+    "fontfaces": "@font-face {\n  font-family: 'KTHiger';\n  src: url('https://globalfonts.pro/global_files/639084549c608773cb43c89c/files/KTHiger-Black.woff2') format('woff2');\n  font-weight: 400;\n  font-style: normal;\n}",
+    "custom_font_base": "KTHiger",
     "custom_font_button": "",
     "cart_show_order_note": false,
     "cart_additional_service_name": "Embalagem Para Presente",
