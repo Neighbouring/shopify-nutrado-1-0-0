@@ -64,14 +64,6 @@
           "type": "rating",
           "settings": {}
         },
-        "description": {
-          "type": "description",
-          "disabled": true,
-          "settings": {
-            "is_open": true,
-            "icon": "none"
-          }
-        },
         "text_BFUWnW": {
           "type": "text",
           "name": "Descrição geral",
@@ -111,6 +103,25 @@
             "background_color": "{{ product.metafields.custom.cor_de_fundo_produto.value }}"
           }
         },
+        "description": {
+          "type": "description",
+          "disabled": true,
+          "settings": {
+            "is_open": true,
+            "icon": "none"
+          }
+        },
+        "5fed6e0f-fb7e-4874-8ba9-3321623fc828": {
+          "type": "collapsible_tab",
+          "disabled": true,
+          "settings": {
+            "heading": "Ingredientes",
+            "content": "<p>{{ product.metafields.custom.ingredientes | metafield_tag }}</p>",
+            "metafield_variables": "",
+            "page": "",
+            "icon": "none"
+          }
+        },
         "promo_67ttgj": {
           "type": "promo",
           "disabled": true,
@@ -138,16 +149,6 @@
           "settings": {
             "metafield": "custom.features",
             "default_text": ""
-          }
-        },
-        "5fed6e0f-fb7e-4874-8ba9-3321623fc828": {
-          "type": "collapsible_tab",
-          "settings": {
-            "heading": "Ingredientes",
-            "content": "<p>{{ product.metafields.custom.ingredientes | metafield_tag }}</p>",
-            "metafield_variables": "",
-            "page": "",
-            "icon": "none"
           }
         },
         "video_reels_fUDDgA": {
@@ -187,14 +188,14 @@
         "separator_Qt7zAY",
         "price",
         "rating",
-        "description",
         "text_BFUWnW",
         "variant_picker",
         "buy_buttons",
+        "description",
+        "5fed6e0f-fb7e-4874-8ba9-3321623fc828",
         "promo_67ttgj",
         "payments_badge_EFynmG",
         "e23830b4-3ca6-452f-a7d1-cb245a3e9282",
-        "5fed6e0f-fb7e-4874-8ba9-3321623fc828",
         "video_reels_fUDDgA",
         "upsell_Fzh866"
       ],
@@ -215,8 +216,8 @@
         "show-thumbnails-mobile": false,
         "text_color": "#052333",
         "background_color": "rgba(0,0,0,0)",
-        "margin-top": 16,
-        "margin-bottom": 0
+        "margin-top": 32,
+        "margin-bottom": 32
       }
     },
     "background_video_axipNV": {
@@ -243,6 +244,7 @@
         "text_EeTEnd",
         "heading_6nnq9e"
       ],
+      "disabled": true,
       "name": "t:sections.background-video.presets.name",
       "settings": {
         "advanced_heading": false,
@@ -346,61 +348,64 @@
         "color-overlay": "rgba(0,0,0,0)",
         "color-overlay-opacity": 100,
         "color-body-text": "rgba(0,0,0,0)",
-        "margin-top": 16,
-        "margin-bottom": 16
+        "margin-top": 32,
+        "margin-bottom": 32
       }
     },
-    "before_and_after_AFCUre": {
-      "type": "before-and-after",
+    "shoppable_image_q6HT49": {
+      "type": "shoppable-image",
       "blocks": {
-        "heading_9WVPE8": {
-          "type": "heading",
+        "dots_fnxPyY": {
+          "type": "dots",
           "settings": {
-            "heading": "Saúde, sua maior riqueza!",
-            "disable_on_mobile": false,
-            "size_heading": 200,
-            "size_heading_mobile": 150
+            "coordinate_width": 66,
+            "coordinate_height": 40,
+            "coordinate_width_mobile": 66,
+            "coordinate_height_mobile": 40,
+            "featured_product": ""
           }
         },
-        "text_Dra7CK": {
-          "type": "text",
+        "benefit_hotspot_ybydKq": {
+          "type": "benefit-hotspot",
           "settings": {
-            "text": "<p>Na Nutrado, acreditamos que a saúde não é apenas uma meta, mas a nossa maior riqueza. Unimos 60 anos de tradição industrial à inovação da Wellness Technology para entregar nutrientes que despertam a plena potência do seu corpo. Tudo para que você tenha energia e equilíbrio para desfrutar o que a vida tem de melhor.<br/><br/></p>",
-            "text_style": "body",
-            "disable_on_mobile": false
+            "title": "Title",
+            "text": "<p>Talk about a product</p>",
+            "coordinate_width": 75,
+            "coordinate_height": 61,
+            "coordinate_width_mobile": 80,
+            "coordinate_height_mobile": 61
+          }
+        },
+        "benefit_hotspot_jdP86E": {
+          "type": "benefit-hotspot",
+          "settings": {
+            "title": "Title",
+            "text": "<p>Talk about a product</p>",
+            "coordinate_width": 20,
+            "coordinate_height": 44,
+            "coordinate_width_mobile": 13,
+            "coordinate_height_mobile": 44
           }
         }
       },
       "block_order": [
-        "heading_9WVPE8",
-        "text_Dra7CK"
+        "dots_fnxPyY",
+        "benefit_hotspot_ybydKq",
+        "benefit_hotspot_jdP86E"
       ],
+      "name": "t:sections.shoppable-image.settings.presets.name__2",
       "settings": {
         "advanced_heading": true,
-        "title": "",
+        "heading": "",
         "heading_richtext": "",
-        "layout": "image_first",
-        "before_image": "shopify://shop_images/e.jpg",
-        "after_image": "shopify://shop_images/g.avif",
-        "desktop-percentage-image-width": 58,
+        "desktop_image": "shopify://shop_images/BANNERHOMENUTRADO.jpg",
         "full-width-enabled": false,
-        "slide_height": "adapt_to_first_image",
-        "desktop_fixed_height": 320,
-        "mobile_fixed_height": 460,
-        "enable_badges": true,
-        "before_badge": "",
-        "after_badge": "",
-        "section-color-body-text": "rgba(0,0,0,0)",
-        "section-color-overlay": "rgba(0,0,0,0)",
-        "section-color-overlay-opacity": 100,
-        "color-body-text": "rgba(0,0,0,0)",
-        "color-overlay": "#f7f3df",
+        "show_vendor": false,
+        "color-body-text": "transparent",
+        "color-overlay": "transparent",
         "color-overlay-opacity": 100,
-        "desktop_text_vertical_position": "center",
-        "desktop_text_horizontal_position": "center",
-        "mobile_text_horizontal_position": "center",
-        "margin-top": 0,
-        "margin-bottom": 0
+        "margin-top": 32,
+        "margin-bottom": 32
       }
     },
     "image_with_text_B9aDaR": {
@@ -462,6 +467,59 @@
         "color-overlay-opacity": 100,
         "desktop_image": "{{ product.featured_image }}",
         "desktop_text_vertical_position": "top",
+        "desktop_text_horizontal_position": "center",
+        "mobile_text_horizontal_position": "center",
+        "margin-top": 32,
+        "margin-bottom": 32
+      }
+    },
+    "before_and_after_AFCUre": {
+      "type": "before-and-after",
+      "blocks": {
+        "heading_9WVPE8": {
+          "type": "heading",
+          "settings": {
+            "heading": "Saúde, sua maior riqueza!",
+            "disable_on_mobile": false,
+            "size_heading": 200,
+            "size_heading_mobile": 150
+          }
+        },
+        "text_Dra7CK": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Na Nutrado, acreditamos que a saúde não é apenas uma meta, mas a nossa maior riqueza. Unimos 60 anos de tradição industrial à inovação da Wellness Technology para entregar nutrientes que despertam a plena potência do seu corpo. Tudo para que você tenha energia e equilíbrio para desfrutar o que a vida tem de melhor.<br/><br/></p>",
+            "text_style": "body",
+            "disable_on_mobile": false
+          }
+        }
+      },
+      "block_order": [
+        "heading_9WVPE8",
+        "text_Dra7CK"
+      ],
+      "settings": {
+        "advanced_heading": true,
+        "title": "",
+        "heading_richtext": "",
+        "layout": "image_first",
+        "before_image": "shopify://shop_images/e.jpg",
+        "after_image": "shopify://shop_images/g.avif",
+        "desktop-percentage-image-width": 58,
+        "full-width-enabled": false,
+        "slide_height": "adapt_to_first_image",
+        "desktop_fixed_height": 320,
+        "mobile_fixed_height": 460,
+        "enable_badges": true,
+        "before_badge": "",
+        "after_badge": "",
+        "section-color-body-text": "rgba(0,0,0,0)",
+        "section-color-overlay": "rgba(0,0,0,0)",
+        "section-color-overlay-opacity": 100,
+        "color-body-text": "rgba(0,0,0,0)",
+        "color-overlay": "#f7f3df",
+        "color-overlay-opacity": 100,
+        "desktop_text_vertical_position": "center",
         "desktop_text_horizontal_position": "center",
         "mobile_text_horizontal_position": "center",
         "margin-top": 32,
@@ -539,8 +597,8 @@
         "video_button": true,
         "color-body-text": "#111111",
         "background_color": "#f7f3df",
-        "margin-top": 16,
-        "margin-bottom": 16
+        "margin-top": 32,
+        "margin-bottom": 32
       }
     },
     "rich_text_Fx9gH6": {
@@ -570,7 +628,7 @@
         "color-body-text": "rgba(0,0,0,0)",
         "background_color": "rgba(0,0,0,0)",
         "background_gradient": "",
-        "margin-top": 16,
+        "margin-top": 0,
         "margin-bottom": 0
       }
     },
@@ -605,8 +663,8 @@
         "color-body-text": "#052333",
         "background_color": "#f7f3df",
         "compact-size-enabled": true,
-        "margin-top": 20,
-        "margin-bottom": 20
+        "margin-top": 0,
+        "margin-bottom": 32
       }
     },
     "newsletter_THpGcz": {
@@ -654,8 +712,9 @@
     "main",
     "background_video_axipNV",
     "benefits_product_fbMnEC",
-    "before_and_after_AFCUre",
+    "shoppable_image_q6HT49",
     "image_with_text_B9aDaR",
+    "before_and_after_AFCUre",
     "video_reels_Wrqg99",
     "rich_text_Fx9gH6",
     "collapsible_menu_FneFH8",
