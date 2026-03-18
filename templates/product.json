@@ -45,16 +45,6 @@
           "name": "Avaliações",
           "settings": {}
         },
-        "feature_tags_44iTGm": {
-          "type": "feature_tags",
-          "name": "Tags",
-          "settings": {
-            "metafield": "90 CAPS{{ product.metafields.custom.quantity_caps.value }}",
-            "limit": 4,
-            "text_color": "#717171",
-            "border_color": "#ececec"
-          }
-        },
         "text_BFUWnW": {
           "type": "text",
           "name": "Descrição",
@@ -157,7 +147,6 @@
         "title",
         "text_NFVtLp",
         "rating",
-        "feature_tags_44iTGm",
         "text_BFUWnW",
         "appstle_bundles_appstle_volume_discount_bundle_xNEQhJ",
         "price",
