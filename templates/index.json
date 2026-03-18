@@ -308,15 +308,15 @@
     "164572276407aa76b1": {
       "type": "testimonials",
       "blocks": {
-        "1645722764301b2090-0": {
+        "image_TjqyLd": {
           "type": "image",
           "settings": {
             "icon_select": "100",
-            "text": "<p>\"Sempre fui criteriosa com suplementos e o que me atraiu na Nutrado foi a transparência das fórmulas e o background industrial deles. Uso o Kit Bem-Estar & Longevidade há três meses. Notei uma melhora absurda na qualidade do meu sono e na minha disposição geral. É nítido que são produtos desenvolvidos com seriedade, sem excessos desnecessários.\"</p>",
-            "desktop_image": "shopify://shop_images/depoimento-avatar_14.jpg",
+            "text": "<p>\"Incluir a Nutrado no meu dia a dia foi uma das melhores decisões para o meu bem-estar. O Beauty se tornou meu queridinho; percebo minha pele muito mais viçosa e hidratada. Adoro a filosofia da marca de que a saúde é um investimento constante. É um cuidado que começa de dentro e realmente transparece no meu ânimo para #VIVERBONSMOMENTOS.\"</p>",
+            "desktop_image": "shopify://shop_images/depoimento-avatar_12.jpg",
             "large_screen_logo_width": 100,
             "mobile_screen_logo_width": 90,
-            "author": "Helena S., 32 anos"
+            "author": "Mariana L., 27 anos"
           }
         },
         "1645722764301b2090-1": {
@@ -330,15 +330,15 @@
             "author": "Ricardo M., 38 anos"
           }
         },
-        "image_TjqyLd": {
+        "1645722764301b2090-0": {
           "type": "image",
           "settings": {
             "icon_select": "100",
-            "text": "<p>\"Incluir a Nutrado no meu dia a dia foi uma das melhores decisões para o meu bem-estar. O Beauty se tornou meu queridinho; percebo minha pele muito mais viçosa e hidratada. Adoro a filosofia da marca de que a saúde é um investimento constante. É um cuidado que começa de dentro e realmente transparece no meu ânimo para #VIVERBONSMOMENTOS.\"</p>",
-            "desktop_image": "shopify://shop_images/depoimento-avatar_12.jpg",
+            "text": "<p>\"Sempre fui criteriosa com suplementos e o que me atraiu na Nutrado foi a transparência das fórmulas e o background industrial deles. Uso o Kit Bem-Estar & Longevidade há três meses. Notei uma melhora absurda na qualidade do meu sono e na minha disposição geral. É nítido que são produtos desenvolvidos com seriedade, sem excessos desnecessários.\"</p>",
+            "desktop_image": "shopify://shop_images/depoimento-avatar_14.jpg",
             "large_screen_logo_width": 100,
             "mobile_screen_logo_width": 90,
-            "author": "Mariana L., 29 anos"
+            "author": "Helena S., 32 anos"
           }
         },
         "e15dcbd0-bf98-4d71-abed-51a2799236e6": {
@@ -353,9 +353,9 @@
         }
       },
       "block_order": [
-        "1645722764301b2090-0",
-        "1645722764301b2090-1",
         "image_TjqyLd",
+        "1645722764301b2090-1",
+        "1645722764301b2090-0",
         "e15dcbd0-bf98-4d71-abed-51a2799236e6"
       ],
       "settings": {
