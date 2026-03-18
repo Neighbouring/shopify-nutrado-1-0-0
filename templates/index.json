@@ -797,6 +797,13 @@
             "link": ""
           }
         },
+        "image_4r97Bk": {
+          "type": "image",
+          "settings": {
+            "desktop_image": "shopify://shop_images/nutrado_05.09_13.webp",
+            "link": ""
+          }
+        },
         "image_7fAWGp": {
           "type": "image",
           "settings": {
@@ -816,6 +823,7 @@
         "image_YKXhhH",
         "image_LHt8nF",
         "image_pHt6wW",
+        "image_4r97Bk",
         "image_7fAWGp",
         "image_838qBF"
       ],
