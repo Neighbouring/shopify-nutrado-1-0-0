@@ -132,7 +132,7 @@
         "button_disable_on_mobile": false,
         "button_link": "",
         "button_link_in_new_window": false,
-        "color-body-text": "#ffffff",
+        "color-body-text": "#f4f4f4",
         "color-overlay": "#052333",
         "color-overlay-opacity": 0
       }
