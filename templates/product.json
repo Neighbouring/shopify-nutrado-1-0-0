@@ -56,11 +56,11 @@
         },
         "appstle_bundles_appstle_volume_discount_bundle_xNEQhJ": {
           "type": "shopify://apps/appstle-bundles/blocks/appstle-volume-discount-bundle/8909921b-2d24-4d68-9b12-9d045d3dcb0a",
+          "disabled": true,
           "settings": {}
         },
         "price": {
           "type": "price",
-          "disabled": true,
           "settings": {
             "show_tax_included": true,
             "show_shipping_policy": true,
