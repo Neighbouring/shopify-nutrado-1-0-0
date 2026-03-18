@@ -208,7 +208,7 @@
         "button_c9jdt9": {
           "type": "button",
           "settings": {
-            "button_select": "primary",
+            "button_select": "secondary",
             "button_label": "CONHEÇA NOSSA JORNADA",
             "button_link": "shopify://pages/sobre",
             "disable_on_mobile": false
