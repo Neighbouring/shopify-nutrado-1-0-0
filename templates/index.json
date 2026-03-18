@@ -9,71 +9,44 @@
  */
 {
   "sections": {
-    "164580331540910010": {
-      "type": "features-banner",
+    "scrolling_text_banner_HbkB9n": {
+      "type": "scrolling-text-banner",
       "blocks": {
-        "164580331573ddb00a-0": {
-          "type": "image",
+        "heading_Fkpcer": {
+          "type": "heading",
           "settings": {
-            "desktop_image": "shopify://shop_images/favicon-nutrado-03.svg",
-            "select_icon": "bag",
-            "heading": "TEXT",
-            "text": "<p>DESCRIPTION</p>",
-            "link": ""
-          }
-        },
-        "164580331573ddb00a-1": {
-          "type": "image",
-          "settings": {
-            "select_icon": "bag",
-            "heading": "Fast & Free Shipping",
-            "text": "<p>Doorstep delivery to most of the US.</p>",
-            "link": ""
-          }
-        },
-        "164580331573ddb00a-2": {
-          "type": "image",
-          "settings": {
-            "select_icon": "bag",
-            "heading": "Natural",
-            "text": "<p>We only use the finest natural ingredients.</p>",
-            "link": ""
-          }
-        },
-        "164580331573ddb00a-3": {
-          "type": "image",
-          "settings": {
-            "select_icon": "bag",
-            "heading": "Recyclable",
-            "text": "<p>All packaging is recyclable and eco conscious.</p>",
-            "link": ""
+            "heading": "Your text for scrolling",
+            "size_heading": 100,
+            "size_heading_mobile": 100
           }
         }
       },
       "block_order": [
-        "164580331573ddb00a-0",
-        "164580331573ddb00a-1",
-        "164580331573ddb00a-2",
-        "164580331573ddb00a-3"
+        "heading_Fkpcer"
       ],
       "disabled": true,
+      "name": "Scrolling text banner",
       "settings": {
         "advanced_heading": false,
         "heading": "",
         "heading_richtext": "<h2>Your headline here</h2>",
-        "size_heading_mobile": 70,
-        "size_heading": 80,
-        "icon_width_mobile": 52,
-        "icon_width_desktop": 64,
-        "icon_layout": "center",
-        "columns_desktop": "4",
-        "icon_layout_mobile": "grid",
-        "color_body_icon": "rgba(0,0,0,0)",
-        "color_background_icon": "rgba(0,0,0,0)",
-        "color_body_text": "rgba(0,0,0,0)",
-        "background_color": "#f7f3df",
-        "margin-top": 64,
-        "margin-bottom": 64
+        "full-width-enabled": true,
+        "animation_speed": 1,
+        "slide_height": "fixed_height",
+        "desktop_fixed_height": 100,
+        "mobile_fixed_height": 100,
+        "desktop_text_vertical_position": "center",
+        "desktop_text_horizontal_position": "center",
+        "mobile_text_vertical_position": "center",
+        "mobile_text_horizontal_position": "center",
+        "color-heading": "rgba(0,0,0,0)",
+        "section-color-overlay": "#f7f3df",
+        "section-color-overlay-opacity": 100,
+        "color-body-text": "rgba(0,0,0,0)",
+        "text-container-color": "#f7f3df",
+        "color-overlay-opacity": 100,
+        "margin-top": 0,
+        "margin-bottom": 0
       }
     },
     "rich_text_with_image_T9aE3i": {
@@ -819,7 +792,7 @@
     }
   },
   "order": [
-    "164580331540910010",
+    "scrolling_text_banner_HbkB9n",
     "rich_text_with_image_T9aE3i",
     "1645137069750a4751",
     "parallax_wrR7BD",
