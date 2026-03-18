@@ -362,6 +362,17 @@
             "mobile_screen_logo_width": 90,
             "author": "Larissa K., 26 anos"
           }
+        },
+        "image_RTzxYW": {
+          "type": "image",
+          "settings": {
+            "icon_select": "100",
+            "text": "<p>\"Trabalho o dia todo no computador e celular, e sentia meus olhos muito cansados e secos no fim do dia. Comecei a usar o Vizio e a diferença no conforto visual foi imediata. Além disso, incluí o Sleep+ para conseguir 'desligar' à noite. Finalmente sinto que estou cuidando do meu corpo no ritmo que a minha rotina exige.\"</p>",
+            "desktop_image": "shopify://shop_images/depoimento-avatar_11.jpg",
+            "large_screen_logo_width": 100,
+            "mobile_screen_logo_width": 90,
+            "author": "Clara M., 21 anos"
+          }
         }
       },
       "block_order": [
@@ -369,7 +380,8 @@
         "1645722764301b2090-1",
         "1645722764301b2090-0",
         "e15dcbd0-bf98-4d71-abed-51a2799236e6",
-        "image_bCgFgF"
+        "image_bCgFgF",
+        "image_RTzxYW"
       ],
       "settings": {
         "advanced_heading": false,
