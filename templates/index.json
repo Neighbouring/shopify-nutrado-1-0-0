@@ -186,45 +186,6 @@
         "margin-bottom": 32
       }
     },
-    "scrolling_text_banner_RjbenN": {
-      "type": "scrolling-text-banner",
-      "blocks": {
-        "heading_LB9Hhp": {
-          "type": "heading",
-          "settings": {
-            "heading": "Fazendo o mundo naturalmente saudável",
-            "size_heading": 80,
-            "size_heading_mobile": 100
-          }
-        }
-      },
-      "block_order": [
-        "heading_LB9Hhp"
-      ],
-      "name": "Scrolling text banner",
-      "settings": {
-        "advanced_heading": false,
-        "heading": "",
-        "heading_richtext": "<h2>Your headline here</h2>",
-        "full-width-enabled": true,
-        "animation_speed": 1,
-        "slide_height": "fixed_height",
-        "desktop_fixed_height": 100,
-        "mobile_fixed_height": 100,
-        "desktop_text_vertical_position": "center",
-        "desktop_text_horizontal_position": "center",
-        "mobile_text_vertical_position": "center",
-        "mobile_text_horizontal_position": "center",
-        "color-heading": "#052333",
-        "section-color-overlay": "#052333",
-        "section-color-overlay-opacity": 100,
-        "color-body-text": "#f7f3df",
-        "text-container-color": "#052333",
-        "color-overlay-opacity": 100,
-        "margin-top": 8,
-        "margin-bottom": 0
-      }
-    },
     "parallax_wrR7BD": {
       "type": "parallax",
       "blocks": {
@@ -269,6 +230,45 @@
         "color-body-text": "#111111",
         "background_color": "#f7f3df",
         "margin-top": 0,
+        "margin-bottom": 100
+      }
+    },
+    "scrolling_text_banner_RjbenN": {
+      "type": "scrolling-text-banner",
+      "blocks": {
+        "heading_LB9Hhp": {
+          "type": "heading",
+          "settings": {
+            "heading": "Fazendo o mundo naturalmente saudável",
+            "size_heading": 80,
+            "size_heading_mobile": 100
+          }
+        }
+      },
+      "block_order": [
+        "heading_LB9Hhp"
+      ],
+      "name": "Scrolling text banner",
+      "settings": {
+        "advanced_heading": false,
+        "heading": "",
+        "heading_richtext": "<h2>Your headline here</h2>",
+        "full-width-enabled": true,
+        "animation_speed": 1,
+        "slide_height": "fixed_height",
+        "desktop_fixed_height": 100,
+        "mobile_fixed_height": 100,
+        "desktop_text_vertical_position": "center",
+        "desktop_text_horizontal_position": "center",
+        "mobile_text_vertical_position": "center",
+        "mobile_text_horizontal_position": "center",
+        "color-heading": "#f7f3df",
+        "section-color-overlay": "#d89bba",
+        "section-color-overlay-opacity": 100,
+        "color-body-text": "#052333",
+        "text-container-color": "#d89bba",
+        "color-overlay-opacity": 100,
+        "margin-top": 8,
         "margin-bottom": 0
       }
     },
