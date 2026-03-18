@@ -187,8 +187,8 @@
         "full-width-enabled": false,
         "animation_speed": 1,
         "slide_height": "fixed_height",
-        "desktop_fixed_height": 320,
-        "mobile_fixed_height": 460,
+        "desktop_fixed_height": 100,
+        "mobile_fixed_height": 100,
         "desktop_image": "shopify://shop_images/nutrado_05.09_10.webp",
         "desktop_text_vertical_position": "center",
         "desktop_text_horizontal_position": "center",
@@ -200,8 +200,8 @@
         "color-body-text": "rgba(0,0,0,0)",
         "text-container-color": "rgba(0,0,0,0)",
         "color-overlay-opacity": 100,
-        "margin-top": 20,
-        "margin-bottom": 20
+        "margin-top": 0,
+        "margin-bottom": 0
       }
     },
     "background_video_axipNV": {
