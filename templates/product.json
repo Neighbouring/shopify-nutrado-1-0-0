@@ -462,98 +462,79 @@
         "margin-bottom": 60
       }
     },
-    "video_reels_dqWnMm": {
+    "video_reels_Wrqg99": {
       "type": "video-reels",
       "blocks": {
-        "product_bi68pi": {
+        "product_TpfUPE": {
           "type": "product",
           "settings": {
-            "featured_product": ""
+            "video_hosted": "shopify://files/videos/pugli - qimunne e quercetina.mp4",
+            "featured_product": "kit-essencial"
           }
         },
-        "product_pUBFTB": {
+        "product_4yJLk9": {
           "type": "product",
           "settings": {
-            "featured_product": ""
+            "video_hosted": "shopify://files/videos/QUERCETINA - NANDA.mp4",
+            "featured_product": "quercetina"
           }
         },
-        "product_PaaDXj": {
+        "product_WhtpJ3": {
           "type": "product",
           "settings": {
-            "featured_product": ""
+            "video_hosted": "shopify://files/videos/copy_D3B4E7A6-D600-4900-ABC7-2EE20EE609D0.mp4",
+            "featured_product": "duomag"
           }
         },
-        "product_AYNM9a": {
+        "product_RbxXkK": {
           "type": "product",
           "settings": {
-            "featured_product": ""
+            "video_hosted": "shopify://files/videos/02_UGC_Tiktok_Magnésio.mov",
+            "featured_product": "duomag"
           }
         },
-        "product_TwBDzA": {
+        "product_prHiVp": {
           "type": "product",
           "settings": {
-            "featured_product": ""
+            "video_hosted": "shopify://files/videos/WhatsApp Video 2025-04-26 at 12.53.18.mp4",
+            "featured_product": "vitamina-d3"
+          }
+        },
+        "product_xD8wCb": {
+          "type": "product",
+          "settings": {
+            "video_hosted": "shopify://files/videos/Coenzima .mov",
+            "featured_product": "coenzima-q10"
+          }
+        },
+        "product_jYnRFt": {
+          "type": "product",
+          "settings": {
+            "video_hosted": "shopify://files/videos/01_Quercetina_AD (3).mov",
+            "featured_product": "quercetina"
           }
         }
       },
       "block_order": [
-        "product_bi68pi",
-        "product_pUBFTB",
-        "product_PaaDXj",
-        "product_AYNM9a",
-        "product_TwBDzA"
+        "product_TpfUPE",
+        "product_4yJLk9",
+        "product_WhtpJ3",
+        "product_RbxXkK",
+        "product_prHiVp",
+        "product_xD8wCb",
+        "product_jYnRFt"
       ],
       "settings": {
         "advanced_heading": false,
-        "heading": "Recommended by our Customers",
+        "heading": "",
         "heading_richtext": "<h2>Your headline here</h2>",
         "quick-add-enabled": true,
-        "hide-brand-name": false,
+        "hide-brand-name": true,
         "video_button": true,
-        "color-body-text": "rgba(0,0,0,0)",
-        "background_color": "rgba(0,0,0,0)",
-        "margin-top": 40,
-        "margin-bottom": 68
-      }
-    },
-    "newsletter_dznx9H": {
-      "type": "newsletter",
-      "blocks": {
-        "heading_mnJyLx": {
-          "type": "heading",
-          "settings": {
-            "heading": "Get 20% off your first order",
-            "heading_disable_on_mobile": false,
-            "size_heading": 200,
-            "size_heading_mobile": 100
-          }
-        },
-        "paragraph_afW3hE": {
-          "type": "paragraph",
-          "settings": {
-            "paragraph": "<p>Be the first to know about new collections and exclusive offers.</p>",
-            "text_disable_on_mobile": false
-          }
-        },
-        "email_form_gr8qVy": {
-          "type": "email_form",
-          "settings": {
-            "button_select": "primary",
-            "button_label": ""
-          }
-        }
-      },
-      "block_order": [
-        "heading_mnJyLx",
-        "paragraph_afW3hE",
-        "email_form_gr8qVy"
-      ],
-      "disabled": true,
-      "settings": {
-        "color-body-text": "rgba(0,0,0,0)",
-        "background_color": "#edf5f4",
-        "margin-top": 100,
-        "margin-bottom": 100
+        "color-body-text": "#111111",
+        "background_color": "#f7f3df",
+        "margin-top": 16,
+        "margin-bottom": 16
       }
     },
     "newsletter_THpGcz": {
@@ -603,8 +584,7 @@
     "benefits_product_fbMnEC",
     "before_and_after_AFCUre",
     "image_with_text_WxXpEB",
-    "video_reels_dqWnMm",
-    "newsletter_dznx9H",
+    "video_reels_Wrqg99",
     "newsletter_THpGcz"
   ]
 }
