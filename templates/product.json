@@ -106,7 +106,7 @@
             "content": "<p>{{ product.metafields.custom.beneficios | metafield_tag }}</p>",
             "metafield_variables": "",
             "page": "",
-            "icon": "none"
+            "icon": "heart"
           }
         },
         "5fed6e0f-fb7e-4874-8ba9-3321623fc828": {
@@ -116,7 +116,7 @@
             "content": "<p>{{ product.metafields.custom.ingredientes | metafield_tag }}</p>",
             "metafield_variables": "",
             "page": "",
-            "icon": "none"
+            "icon": "leaf"
           }
         },
         "collapsible_tab_Ej8z8n": {
@@ -126,7 +126,7 @@
             "content": "<p>{{ product.metafields.custom.como_tomar | metafield_tag }}</p>",
             "metafield_variables": "",
             "page": "",
-            "icon": "none"
+            "icon": "check_mark"
           }
         }
       },
