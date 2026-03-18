@@ -371,21 +371,6 @@
     "product_slider_URct6q": {
       "type": "product-slider",
       "blocks": {
-        "product_HVQQc6": {
-          "type": "product",
-          "settings": {
-            "slider_product": "coenzima-q10",
-            "product_image": "shopify://shop_images/q10.png",
-            "text_color": "#f7f3df",
-            "background_color": "#449e5f",
-            "heading": "{{ block.settings.slider_product.metafields.custom.subtitulo_de_produto.value }}",
-            "text": "<p>{{ block.settings.slider_product.metafields.custom.beneficios | metafield_tag }}</p>",
-            "promo_text_color": "#449e5f",
-            "desktop_text_vertical_position": "center",
-            "desktop_text_horizontal_position": "center",
-            "mobile_text_horizontal_position": "center"
-          }
-        },
         "product_8JxXkK": {
           "type": "product",
           "settings": {
@@ -396,6 +381,21 @@
             "heading": "{{ block.settings.slider_product.metafields.custom.subtitulo_de_produto.value }}",
             "text": "<p>{{ block.settings.slider_product.metafields.custom.beneficios | metafield_tag }}</p>",
             "promo_text_color": "#b57619",
+            "desktop_text_vertical_position": "center",
+            "desktop_text_horizontal_position": "center",
+            "mobile_text_horizontal_position": "center"
+          }
+        },
+        "product_HVQQc6": {
+          "type": "product",
+          "settings": {
+            "slider_product": "coenzima-q10",
+            "product_image": "shopify://shop_images/q10.png",
+            "text_color": "#f7f3df",
+            "background_color": "#449e5f",
+            "heading": "{{ block.settings.slider_product.metafields.custom.subtitulo_de_produto.value }}",
+            "text": "<p>{{ block.settings.slider_product.metafields.custom.beneficios | metafield_tag }}</p>",
+            "promo_text_color": "#449e5f",
             "desktop_text_vertical_position": "center",
             "desktop_text_horizontal_position": "center",
             "mobile_text_horizontal_position": "center"
@@ -433,8 +433,8 @@
         }
       },
       "block_order": [
-        "product_HVQQc6",
         "product_8JxXkK",
+        "product_HVQQc6",
         "product_EGwNbR",
         "product_ex7ej8"
       ],
