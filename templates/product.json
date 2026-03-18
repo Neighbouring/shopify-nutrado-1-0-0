@@ -55,7 +55,7 @@
           "type": "price",
           "settings": {
             "show_tax_included": false,
-            "show_shipping_policy": false,
+            "show_shipping_policy": true,
             "size_text": 150,
             "size_text_mobile": 150
           }
@@ -203,7 +203,7 @@
         "enable_sticky_buy_button": true,
         "full-width-enabled": false,
         "desktop-media-size": "normal",
-        "desktop-layout": "carousel-horizontal",
+        "desktop-layout": "carousel-vertical",
         "desktop-image-ratio": "square",
         "enable_video_looping": false,
         "video_controls": false,
@@ -213,7 +213,7 @@
         "enable-image-zoom": true,
         "mobile-image": "small",
         "show-thumbnails-mobile": false,
-        "text_color": "rgba(0,0,0,0)",
+        "text_color": "#052333",
         "background_color": "rgba(0,0,0,0)",
         "margin-top": 16,
         "margin-bottom": 0
