@@ -148,7 +148,7 @@
         "enable_sticky_buy_button": true,
         "full-width-enabled": false,
         "desktop-media-size": "large",
-        "desktop-layout": "fashion",
+        "desktop-layout": "collage",
         "desktop-image-ratio": "original",
         "enable_video_looping": false,
         "video_controls": false,
