@@ -45,8 +45,8 @@
         "marquee": true,
         "animation_speed": "100",
         "checkbox_close_announcement": true,
-        "color-body-text": "#052333",
-        "background_color": "#f6a74a"
+        "color-body-text": "#f4f4f4",
+        "background_color": "#052333"
       }
     },
     "header": {
