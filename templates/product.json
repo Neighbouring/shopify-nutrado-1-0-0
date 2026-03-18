@@ -170,28 +170,14 @@
         "heading_YUBDhV": {
           "type": "heading",
           "settings": {
-            "heading": "Your text for scrolling",
+            "heading": "Suplementação Inteligente Para Mais Imunidade",
             "size_heading": 100,
             "size_heading_mobile": 100
-          }
-        },
-        "button_BEW3DE": {
-          "type": "button",
-          "settings": {
-            "button_select": "primary",
-            "button_label": "Button label",
-            "disable_on_mobile": false,
-            "button_link": "/",
-            "second_button_select": "primary",
-            "second_button_label": "Button label",
-            "second_disable_on_mobile": false,
-            "second_button_link": ""
           }
         }
       },
       "block_order": [
-        "heading_YUBDhV",
-        "button_BEW3DE"
+        "heading_YUBDhV"
       ],
       "name": "Scrolling text banner",
       "settings": {
@@ -199,10 +185,11 @@
         "heading": "",
         "heading_richtext": "<h2>Your headline here</h2>",
         "full-width-enabled": false,
-        "animation_speed": 2,
+        "animation_speed": 1,
         "slide_height": "fixed_height",
         "desktop_fixed_height": 320,
         "mobile_fixed_height": 460,
+        "desktop_image": "shopify://shop_images/nutrado_05.09_10.webp",
         "desktop_text_vertical_position": "center",
         "desktop_text_horizontal_position": "center",
         "mobile_text_vertical_position": "center",
