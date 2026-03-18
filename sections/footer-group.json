@@ -17,26 +17,34 @@
         "menu_TyWCqJ": {
           "type": "menu",
           "settings": {
-            "heading_links": "Categories",
-            "links": ""
+            "heading_links": "Ajuda?",
+            "links": "precisa-de-ajuda"
           }
         },
         "menu_DzCNd6": {
           "type": "menu",
           "settings": {
-            "heading_links": "Customer Service",
-            "links": ""
+            "heading_links": "Meu painel",
+            "links": "customer-account-main-menu"
           }
         },
         "menu_9YUhCX": {
           "type": "menu",
           "settings": {
-            "heading_links": "Information",
-            "links": ""
+            "heading_links": "Categorias",
+            "links": "main-menu"
+          }
+        },
+        "menu_hX3qaD": {
+          "type": "menu",
+          "settings": {
+            "heading_links": "Sobre",
+            "links": "nutrado"
           }
         },
         "text_DY7pny": {
           "type": "text",
+          "disabled": true,
           "settings": {
             "heading_text": "About Us",
             "text": "<p>We could not have created this demo without the help of an amazing source of content and products. Visit our about page to find out where all the products used in this demo care from.   <a href=\"/pages/about-us\" title=\"About us\">More Info</a></p>"
@@ -47,6 +55,7 @@
         "menu_TyWCqJ",
         "menu_DzCNd6",
         "menu_9YUhCX",
+        "menu_hX3qaD",
         "text_DY7pny"
       ],
       "settings": {
