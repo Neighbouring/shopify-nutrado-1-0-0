@@ -9,6 +9,73 @@
  */
 {
   "sections": {
+    "164580331540910010": {
+      "type": "features-banner",
+      "blocks": {
+        "164580331573ddb00a-0": {
+          "type": "image",
+          "settings": {
+            "desktop_image": "shopify://shop_images/favicon-nutrado-03.svg",
+            "select_icon": "bag",
+            "heading": "TEXT",
+            "text": "<p>DESCRIPTION</p>",
+            "link": ""
+          }
+        },
+        "164580331573ddb00a-1": {
+          "type": "image",
+          "settings": {
+            "select_icon": "bag",
+            "heading": "Fast & Free Shipping",
+            "text": "<p>Doorstep delivery to most of the US.</p>",
+            "link": ""
+          }
+        },
+        "164580331573ddb00a-2": {
+          "type": "image",
+          "settings": {
+            "select_icon": "bag",
+            "heading": "Natural",
+            "text": "<p>We only use the finest natural ingredients.</p>",
+            "link": ""
+          }
+        },
+        "164580331573ddb00a-3": {
+          "type": "image",
+          "settings": {
+            "select_icon": "bag",
+            "heading": "Recyclable",
+            "text": "<p>All packaging is recyclable and eco conscious.</p>",
+            "link": ""
+          }
+        }
+      },
+      "block_order": [
+        "164580331573ddb00a-0",
+        "164580331573ddb00a-1",
+        "164580331573ddb00a-2",
+        "164580331573ddb00a-3"
+      ],
+      "disabled": true,
+      "settings": {
+        "advanced_heading": false,
+        "heading": "",
+        "heading_richtext": "<h2>Your headline here</h2>",
+        "size_heading_mobile": 70,
+        "size_heading": 80,
+        "icon_width_mobile": 52,
+        "icon_width_desktop": 64,
+        "icon_layout": "center",
+        "columns_desktop": "4",
+        "icon_layout_mobile": "grid",
+        "color_body_icon": "rgba(0,0,0,0)",
+        "color_background_icon": "rgba(0,0,0,0)",
+        "color_body_text": "rgba(0,0,0,0)",
+        "background_color": "#f7f3df",
+        "margin-top": 64,
+        "margin-bottom": 64
+      }
+    },
     "rich_text_with_image_T9aE3i": {
       "type": "rich-text-with-image",
       "blocks": {
@@ -46,8 +113,8 @@
         "desktop_text_horizontal_position": "center",
         "color-body-text": "#052333",
         "background_color": "#f7f3df",
-        "margin-top": 72,
-        "margin-bottom": 72
+        "margin-top": 16,
+        "margin-bottom": 16
       }
     },
     "1645137069750a4751": {
@@ -192,7 +259,7 @@
         "button_link1": "",
         "image_2": "shopify://shop_images/e.jpg",
         "button_link2": "",
-        "color-body-text": "#052333",
+        "color-body-text": "#111111",
         "background_color": "#f7f3df",
         "margin-top": 0,
         "margin-bottom": 0
@@ -208,11 +275,11 @@
         "hide_empty_section": true,
         "collection": "mais-vendidos",
         "product_list": [],
-        "products_to_show": 6,
+        "products_to_show": 24,
         "enable_stack_products": false,
-        "show_view_all": true,
+        "show_view_all": false,
         "button_select": "link",
-        "number_of_column_desktop": 3,
+        "number_of_column_desktop": 4,
         "spacing_desktop": "16",
         "make_products_full_width": false,
         "number_of_column_mobile": 1.4,
@@ -229,72 +296,6 @@
         "background_color": "#f7f3df",
         "margin-top": 16,
         "margin-bottom": 16
-      }
-    },
-    "164580331540910010": {
-      "type": "features-banner",
-      "blocks": {
-        "164580331573ddb00a-0": {
-          "type": "image",
-          "settings": {
-            "desktop_image": "shopify://shop_images/favicon-nutrado-03.svg",
-            "select_icon": "bag",
-            "heading": "TEXT",
-            "text": "<p>DESCRIPTION</p>",
-            "link": ""
-          }
-        },
-        "164580331573ddb00a-1": {
-          "type": "image",
-          "settings": {
-            "select_icon": "bag",
-            "heading": "Fast & Free Shipping",
-            "text": "<p>Doorstep delivery to most of the US.</p>",
-            "link": ""
-          }
-        },
-        "164580331573ddb00a-2": {
-          "type": "image",
-          "settings": {
-            "select_icon": "bag",
-            "heading": "Natural",
-            "text": "<p>We only use the finest natural ingredients.</p>",
-            "link": ""
-          }
-        },
-        "164580331573ddb00a-3": {
-          "type": "image",
-          "settings": {
-            "select_icon": "bag",
-            "heading": "Recyclable",
-            "text": "<p>All packaging is recyclable and eco conscious.</p>",
-            "link": ""
-          }
-        }
-      },
-      "block_order": [
-        "164580331573ddb00a-0",
-        "164580331573ddb00a-1",
-        "164580331573ddb00a-2",
-        "164580331573ddb00a-3"
-      ],
-      "settings": {
-        "advanced_heading": false,
-        "heading": "",
-        "heading_richtext": "<h2>Your headline here</h2>",
-        "size_heading_mobile": 80,
-        "size_heading": 70,
-        "icon_width_mobile": 52,
-        "icon_width_desktop": 64,
-        "icon_layout": "center",
-        "columns_desktop": "4",
-        "icon_layout_mobile": "grid",
-        "color_body_icon": "rgba(0,0,0,0)",
-        "color_background_icon": "rgba(0,0,0,0)",
-        "color_body_text": "rgba(0,0,0,0)",
-        "background_color": "#f7f3df",
-        "margin-top": 64,
-        "margin-bottom": 64
       }
     },
     "product_slider_URct6q": {
@@ -821,11 +822,11 @@
     }
   },
   "order": [
+    "164580331540910010",
     "rich_text_with_image_T9aE3i",
     "1645137069750a4751",
     "parallax_wrR7BD",
     "1644542625dcf6daf0",
-    "164580331540910010",
     "product_slider_URct6q",
     "brands_ncdYQm",
     "shoppable_video_BjfJTR",
