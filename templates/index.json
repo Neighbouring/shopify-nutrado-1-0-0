@@ -344,12 +344,23 @@
         "e15dcbd0-bf98-4d71-abed-51a2799236e6": {
           "type": "image",
           "settings": {
-            "icon_select": "100",
+            "icon_select": "90",
             "text": "<p>\"Sempre gastei muito com cremes caros, mas entendi com a Nutrado que a base da beleza é o que a gente ingere. O Beauty virou um passo essencial do meu skincare; sinto minha pele com muito mais viço e minhas unhas pararam de quebrar. É aquele autocuidado prático que realmente traz resultado a longo prazo.\"</p>",
             "desktop_image": "shopify://shop_images/depoimento-avatar_16.jpg",
             "large_screen_logo_width": 100,
             "mobile_screen_logo_width": 90,
-            "author": "Beatriz V., 23 anos"
+            "author": "Sayuri K., 23 anos"
+          }
+        },
+        "image_bCgFgF": {
+          "type": "image",
+          "settings": {
+            "icon_select": "100",
+            "text": "<p>\"Conciliar o primeiro emprego com a pós-graduação estava acabando com o meu foco. O que me salvou foi a L-Teanina. Sinto que consigo manter a concentração sem aquela agitação ou ansiedade de quem toma muito café. É uma clareza mental que me ajuda a render no trabalho e ainda chegar em casa com energia.\"</p>",
+            "desktop_image": "shopify://shop_images/depoimento-avatar_7.jpg",
+            "large_screen_logo_width": 100,
+            "mobile_screen_logo_width": 90,
+            "author": "Larissa K., 26 anos"
           }
         }
       },
@@ -357,7 +368,8 @@
         "image_TjqyLd",
         "1645722764301b2090-1",
         "1645722764301b2090-0",
-        "e15dcbd0-bf98-4d71-abed-51a2799236e6"
+        "e15dcbd0-bf98-4d71-abed-51a2799236e6",
+        "image_bCgFgF"
       ],
       "settings": {
         "advanced_heading": false,
