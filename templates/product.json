@@ -333,7 +333,7 @@
         "full-width-enabled": false,
         "mobile_image": "shopify://shop_images/favicon-nutrado-02.svg",
         "desktop_image": "shopify://shop_images/favicon-nutrado-02.svg",
-        "section_height_mode": "fixed_height",
+        "section_height_mode": "auto",
         "desktop_section_height": 80,
         "desktop_section_max_height": 920,
         "desktop_width": 60,
