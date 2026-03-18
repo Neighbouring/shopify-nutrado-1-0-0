@@ -54,7 +54,7 @@
         "price": {
           "type": "price",
           "settings": {
-            "show_tax_included": false,
+            "show_tax_included": true,
             "show_shipping_policy": true,
             "size_text": 150,
             "size_text_mobile": 150
