@@ -275,43 +275,43 @@
         "benefit_NHJhhT": {
           "type": "benefit",
           "settings": {
-            "item_heading": "Vegan",
-            "text": "<p>Our entire collection is vegan and cruelty free.</p>"
+            "item_heading": "Nicotinamida",
+            "text": "<p>Ajuda a uniformizar o tom da pele, reduzir manchas e restaurar o viço natural. Também fortalece a barreira cutânea e combate os sinais do tempo.</p>"
           }
         },
         "benefit_WpTbd9": {
           "type": "benefit",
           "settings": {
-            "item_heading": "Ocean Bound Plastic",
-            "text": "<p>Support a Sustainable Future with our Environmentally Conscious Goods.</p>"
+            "item_heading": "Vitamina C",
+            "text": "<p>Essencial para a síntese de colágeno, ajuda a manter a firmeza e elasticidade da pele, além de proteger contra o envelhecimento precoce por sua ação antioxidante.</p>"
           }
         },
         "benefit_TxDR8i": {
           "type": "benefit",
           "settings": {
-            "item_heading": "Recyclable",
-            "text": "<p>All packaging is recyclable and eco conscious.</p>"
+            "item_heading": "Vitamina B6",
+            "text": "<p>Atua no metabolismo de proteínas como a queratina, fortalecendo cabelos e unhas. Também auxilia na redução da oleosidade da pele e no equilíbrio hormonal.</p>"
           }
         },
         "benefit_rRagEV": {
           "type": "benefit",
           "settings": {
-            "item_heading": "Natural",
-            "text": "<p>We only use the finest natural ingredients.</p>"
+            "item_heading": "Biotina",
+            "text": "<p>Fundamental para o crescimento saudável de cabelos e unhas. Reduz a queda, melhora a espessura dos fios e combate a fragilidade das unhas.<br/><br/></p>"
           }
         },
         "benefit_iY6k6j": {
           "type": "benefit",
           "settings": {
-            "item_heading": "Parabens Free",
-            "text": "<p>Our products do not contain harmful substances.</p>"
+            "item_heading": "Ácido Hialurônico",
+            "text": "<p>Hidrata a pele em profundidade, promovendo volume, elasticidade e viço. Atua na retenção de água dentro das células, devolvendo o aspecto jovem e saudável.<br/></p>"
           }
         },
-        "benefit_EE4gW8": {
+        "benefit_pWigYz": {
           "type": "benefit",
           "settings": {
-            "item_heading": "Best Quality",
-            "text": "<p>Explore the Unmatched Quality of Products.</p>"
+            "item_heading": "Saiba mais",
+            "text": "<p>...<br/></p>"
           }
         }
       },
@@ -321,22 +321,24 @@
         "benefit_TxDR8i",
         "benefit_rRagEV",
         "benefit_iY6k6j",
-        "benefit_EE4gW8"
+        "benefit_pWigYz"
       ],
       "name": "t:sections.benefits_product.name",
       "settings": {
-        "advanced_heading": false,
-        "heading": "Product Benefits",
-        "heading_richtext": "<h2>Your headline here</h2>",
-        "full-width-enabled": false,
+        "advanced_heading": true,
+        "heading": "Ingredientes",
+        "heading_richtext": "<h1>Ingredientes</h1>",
+        "full-width-enabled": true,
+        "mobile_image": "shopify://shop_images/favicon-nutrado-02.svg",
+        "desktop_image": "shopify://shop_images/favicon-nutrado-02.svg",
         "section_height_mode": "fixed_height",
         "desktop_section_height": 74,
         "desktop_section_max_height": 920,
         "desktop_width": 60,
         "desktop_max_width": 680,
-        "button_label": "",
+        "button_label": "Tabela Nutricional",
         "button_link": "",
-        "quick_buy_product": "",
+        "quick_buy_product": "{{ product }}",
         "button_select": "primary",
         "size_heading": 110,
         "size_heading_mobile": 120,
@@ -344,8 +346,8 @@
         "color-overlay": "rgba(0,0,0,0)",
         "color-overlay-opacity": 100,
         "color-body-text": "rgba(0,0,0,0)",
-        "margin-top": 20,
-        "margin-bottom": 60
+        "margin-top": 32,
+        "margin-bottom": 32
       }
     },
     "before_and_after_AFCUre": {
@@ -354,16 +356,16 @@
         "heading_9WVPE8": {
           "type": "heading",
           "settings": {
-            "heading": "We know you are unique.",
+            "heading": "Saúde, sua maior riqueza!",
             "disable_on_mobile": false,
-            "size_heading": 160,
-            "size_heading_mobile": 140
+            "size_heading": 200,
+            "size_heading_mobile": 150
           }
         },
         "text_Dra7CK": {
           "type": "text",
           "settings": {
-            "text": "<p>Take care of your complexion to make it healthy and radiant. In the range of facial care products you will find creams, scrubs, masks, toners, gels and much more.</p>",
+            "text": "<p>Na Nutrado, acreditamos que a saúde não é apenas uma meta, mas a nossa maior riqueza. Unimos 60 anos de tradição industrial à inovação da Wellness Technology para entregar nutrientes que despertam a plena potência do seu corpo. Tudo para que você tenha energia e equilíbrio para desfrutar o que a vida tem de melhor.<br/><br/></p>",
             "text_style": "body",
             "disable_on_mobile": false
           }
@@ -374,18 +376,20 @@
         "text_Dra7CK"
       ],
       "settings": {
-        "advanced_heading": false,
+        "advanced_heading": true,
         "title": "",
-        "heading_richtext": "<h2>Your headline here</h2>",
+        "heading_richtext": "",
         "layout": "image_first",
+        "before_image": "shopify://shop_images/e.jpg",
+        "after_image": "shopify://shop_images/g.avif",
         "desktop-percentage-image-width": 58,
         "full-width-enabled": true,
         "slide_height": "adapt_to_first_image",
         "desktop_fixed_height": 320,
         "mobile_fixed_height": 460,
         "enable_badges": true,
-        "before_badge": "Before",
-        "after_badge": "After",
+        "before_badge": "",
+        "after_badge": "",
         "section-color-body-text": "rgba(0,0,0,0)",
         "section-color-overlay": "rgba(0,0,0,0)",
         "section-color-overlay-opacity": 100,
