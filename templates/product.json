@@ -32,6 +32,14 @@
             "size_text_mobile": 150
           }
         },
+        "text_NFVtLp": {
+          "type": "text",
+          "settings": {
+            "heading": "",
+            "content": "<p>{{ product.metafields.custom.comercial_title.value }}</p>",
+            "page": ""
+          }
+        },
         "rating": {
           "type": "rating",
           "name": "Avaliações",
@@ -40,6 +48,7 @@
         "feature_tags_44iTGm": {
           "type": "feature_tags",
           "name": "Tags",
+          "disabled": true,
           "settings": {
             "metafield": "custom.feature_tags",
             "limit": 4,
@@ -147,6 +156,7 @@
       },
       "block_order": [
         "title",
+        "text_NFVtLp",
         "rating",
         "feature_tags_44iTGm",
         "text_BFUWnW",
