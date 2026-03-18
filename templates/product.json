@@ -23,6 +23,10 @@
     "main": {
       "type": "main-product",
       "blocks": {
+        "appstle_bundles_appstle_classic_bundle_Jj8McB": {
+          "type": "shopify://apps/appstle-bundles/blocks/appstle-classic-bundle/8909921b-2d24-4d68-9b12-9d045d3dcb0a",
+          "settings": {}
+        },
         "title": {
           "type": "title",
           "settings": {
@@ -32,8 +36,14 @@
             "size_text_mobile": 150
           }
         },
+        "rating": {
+          "type": "rating",
+          "name": "Avaliações",
+          "settings": {}
+        },
         "feature_tags_44iTGm": {
           "type": "feature_tags",
+          "name": "Tags",
           "settings": {
             "metafield": "custom.feature_tags",
             "limit": 4,
@@ -41,14 +51,13 @@
             "border_color": "#ececec"
           }
         },
-        "separator_Qt7zAY": {
-          "type": "separator",
-          "disabled": true,
+        "text_BFUWnW": {
+          "type": "text",
+          "name": "Descrição",
           "settings": {
-            "show-separator-line": false,
-            "color-background": "#000000",
-            "margin-top": 8,
-            "margin-bottom": 8
+            "heading": "",
+            "content": "{{ product.description }}",
+            "page": ""
           }
         },
         "price": {
@@ -60,21 +69,9 @@
             "size_text_mobile": 150
           }
         },
-        "rating": {
-          "type": "rating",
-          "settings": {}
-        },
-        "text_BFUWnW": {
-          "type": "text",
-          "name": "Descrição geral",
-          "settings": {
-            "heading": "",
-            "content": "{{ product.description }}",
-            "page": ""
-          }
-        },
         "variant_picker": {
           "type": "variant_picker",
+          "disabled": true,
           "settings": {
             "picker_type": "button",
             "color_swatch_names": "",
@@ -98,9 +95,9 @@
           "settings": {
             "show_dynamic_checkout": false,
             "show_gift_card_recipient": true,
-            "show_qty_selector": true,
-            "text_color": "#f7f3df",
-            "background_color": "{{ product.metafields.custom.cor_de_fundo_produto.value }}"
+            "show_qty_selector": false,
+            "text_color": "#052333",
+            "background_color": "#f6a74a"
           }
         },
         "description": {
@@ -183,12 +180,12 @@
         }
       },
       "block_order": [
+        "appstle_bundles_appstle_classic_bundle_Jj8McB",
         "title",
-        "feature_tags_44iTGm",
-        "separator_Qt7zAY",
-        "price",
         "rating",
+        "feature_tags_44iTGm",
         "text_BFUWnW",
+        "price",
         "variant_picker",
         "buy_buttons",
         "description",

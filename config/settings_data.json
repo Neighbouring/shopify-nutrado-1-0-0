@@ -74,6 +74,85 @@
     "custom-badge-2-input": "",
     "animations": true,
     "disabled_animations_on_mobile": false,
-    "content_for_index": []
+    "content_for_index": [],
+    "blocks": {
+      "10508887350528622030": {
+        "type": "shopify://apps/appstle-bundles/blocks/appstle-bundle/8909921b-2d24-4d68-9b12-9d045d3dcb0a",
+        "disabled": false,
+        "settings": {}
+      },
+      "11532412952436166569": {
+        "type": "shopify://apps/loox-reviews/blocks/loox-inject/5c3b337f-fd14-4df5-b1d6-80ec13e6e28e",
+        "disabled": false,
+        "settings": {}
+      },
+      "10436698916776057164": {
+        "type": "shopify://apps/appstle-subscription/blocks/appstle-subscription-helper/fe257d39-6f88-4f35-ab08-bd437e3aa94e",
+        "disabled": false,
+        "settings": {}
+      },
+      "6251270934270006384": {
+        "type": "shopify://apps/stape-conversion-tracking/blocks/gtm/7e13c847-7971-409d-8fe0-29ec14d5f048",
+        "disabled": false,
+        "settings": {}
+      },
+      "13768625480086291342": {
+        "type": "shopify://apps/forms/blocks/forms/8744a304-fcb1-4347-b211-bb6b4759a76a",
+        "disabled": false,
+        "settings": {}
+      },
+      "6159598353363395418": {
+        "type": "shopify://apps/google-youtube/blocks/store_widget/14ec7bd0-ac77-49a9-9417-90752398bdff",
+        "disabled": false,
+        "settings": {
+          "widget_position": "LEFT_BOTTOM",
+          "side_margin": 36,
+          "bottom_margin": 36,
+          "mobile_side_margin": 16,
+          "mobile_bottom_margin": 46
+        }
+      },
+      "5460033060862993441": {
+        "type": "shopify://apps/essential-announcer/blocks/app-embed/93b5429f-c8d6-4c33-ae14-250fd84f361b",
+        "disabled": false,
+        "settings": {}
+      },
+      "15413925451036697268": {
+        "type": "shopify://apps/redeemly/blocks/tracker/fe55f451-e553-4131-a946-354ff46f9d85",
+        "disabled": false,
+        "settings": {}
+      },
+      "6690084789156704536": {
+        "type": "shopify://apps/redeemly/blocks/widgets_app_embed/fe55f451-e553-4131-a946-354ff46f9d85",
+        "disabled": false,
+        "settings": {
+          "product_widget_css_selector": "",
+          "cart_widget_css_selector": ""
+        }
+      },
+      "4811963503060929178": {
+        "type": "shopify://apps/redeemly/blocks/referral/fe55f451-e553-4131-a946-354ff46f9d85",
+        "disabled": false,
+        "settings": {}
+      },
+      "10685699042591825042": {
+        "type": "shopify://apps/redeemly/blocks/monster_cart_integration/fe55f451-e553-4131-a946-354ff46f9d85",
+        "disabled": false,
+        "settings": {}
+      },
+      "9784695015812721648": {
+        "type": "shopify://apps/redeemly/blocks/launcher/fe55f451-e553-4131-a946-354ff46f9d85",
+        "disabled": false,
+        "settings": {}
+      },
+      "6081313875000816572": {
+        "type": "shopify://apps/redeemly/blocks/cart_drawers_integration/fe55f451-e553-4131-a946-354ff46f9d85",
+        "disabled": false,
+        "settings": {
+          "custom_css_selector": "",
+          "custom_css_selector_position": "before"
+        }
+      }
+    }
   }
 }
