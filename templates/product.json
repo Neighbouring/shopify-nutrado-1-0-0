@@ -248,7 +248,7 @@
         "advanced_heading": false,
         "heading": "",
         "heading_richtext": "<h2>Your headline here</h2>",
-        "full-width-enabled": true,
+        "full-width-enabled": false,
         "autoplay": true,
         "video_controls": false,
         "video_custom_play_controls": true,
