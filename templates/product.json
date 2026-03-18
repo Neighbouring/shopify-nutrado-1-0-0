@@ -147,7 +147,7 @@
       "settings": {
         "enable_sticky_buy_button": true,
         "full-width-enabled": false,
-        "desktop-media-size": "large",
+        "desktop-media-size": "normal",
         "desktop-layout": "collage",
         "desktop-image-ratio": "original",
         "enable_video_looping": false,
@@ -346,8 +346,8 @@
         "desktop_image": "shopify://shop_images/BANNERHOMENUTRADO.jpg",
         "full-width-enabled": false,
         "show_vendor": false,
-        "color-body-text": "transparent",
-        "color-overlay": "transparent",
+        "color-body-text": "rgba(0,0,0,0)",
+        "color-overlay": "rgba(0,0,0,0)",
         "color-overlay-opacity": 100,
         "margin-top": 32,
         "margin-bottom": 32
