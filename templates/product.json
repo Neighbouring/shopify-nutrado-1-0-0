@@ -433,7 +433,7 @@
             "metafield": "",
             "table_content": "Feature name:\nShort description\n\nSecond feature name:\nDetail line 1\nDetail line 2 \nDetail line 3\n\nSecond feature name:\nDetail line 1\nDetail line 2 \nDetail line 3",
             "color-background-odd": "{{ product.metafields.custom.cor_de_fundo_produto.value }}",
-            "color-text-odd": "#000",
+            "color-text-odd": "#000000",
             "color-text-left-opacity": 100
           }
         }
@@ -454,11 +454,11 @@
         "slide_height": "fixed_height",
         "desktop_fixed_height": 320,
         "mobile_fixed_height": 460,
-        "section-color-body-text": "transparent",
+        "section-color-body-text": "rgba(0,0,0,0)",
         "section-color-overlay": "#f7f3df",
         "section-color-overlay-opacity": 100,
-        "color-body-text": "#f7f3df",
-        "color-overlay": "transparent",
+        "color-body-text": "#052333",
+        "color-overlay": "rgba(0,0,0,0)",
         "color-overlay-opacity": 100,
         "desktop_text_vertical_position": "center",
         "desktop_text_horizontal_position": "center",
@@ -554,7 +554,7 @@
             "disable_on_mobile": false,
             "size_heading": 200,
             "size_heading_mobile": 150,
-            "heading_richtext_color": "transparent",
+            "heading_richtext_color": "rgba(0,0,0,0)",
             "heading_richtext_gradient": ""
           }
         }
@@ -566,8 +566,8 @@
       "settings": {
         "section_width": "regular",
         "desktop_text_horizontal_position": "center",
-        "color-body-text": "transparent",
-        "background_color": "transparent",
+        "color-body-text": "rgba(0,0,0,0)",
+        "background_color": "rgba(0,0,0,0)",
         "background_gradient": "",
         "margin-top": 16,
         "margin-bottom": 0
