@@ -204,58 +204,6 @@
         "margin-bottom": 0
       }
     },
-    "background_video_axipNV": {
-      "type": "background-video",
-      "blocks": {
-        "text_EeTEnd": {
-          "type": "text",
-          "settings": {
-            "text": "<p>Created In Harmony with Nature</p>",
-            "disable_on_mobile": false
-          }
-        },
-        "heading_6nnq9e": {
-          "type": "heading",
-          "settings": {
-            "heading": "100% Natural Ingredients",
-            "disable_on_mobile": false,
-            "size_heading": 260,
-            "size_heading_mobile": 160
-          }
-        }
-      },
-      "block_order": [
-        "text_EeTEnd",
-        "heading_6nnq9e"
-      ],
-      "name": "t:sections.background-video.presets.name",
-      "settings": {
-        "advanced_heading": true,
-        "heading": "",
-        "heading_richtext": "",
-        "full-width-enabled": false,
-        "video_hosted": "shopify://files/videos/NUTRADO - Intro - 01A.mp4",
-        "mobile_video_hosted": "shopify://files/videos/NUTRADO - Intro - 01A.mp4",
-        "autoplay": true,
-        "video_controls": false,
-        "video_custom_play_controls": true,
-        "video_custom_mute_controls": false,
-        "video_url": "https://www.youtube.com/watch?v=_9VUPq3SxOc",
-        "original_ratio": "fixed_height",
-        "desktop_fixed_height": 500,
-        "mobile_fixed_height": 320,
-        "color-body-heading": "#ffffff",
-        "color-overlay": "rgba(0,0,0,0)",
-        "color-overlay-opacity": 100,
-        "color-body-text": "#ffffff",
-        "desktop_text_vertical_position": "center",
-        "desktop_text_horizontal_position": "center",
-        "mobile_text_vertical_position": "center",
-        "mobile_text_horizontal_position": "center",
-        "margin-top": 20,
-        "margin-bottom": 20
-      }
-    },
     "benefits_product_fbMnEC": {
       "type": "benefits-product",
       "blocks": {
@@ -296,6 +244,7 @@
         },
         "benefit_pWigYz": {
           "type": "benefit",
+          "disabled": true,
           "settings": {
             "item_heading": "Saiba mais",
             "text": "<p>...<br/></p>"
@@ -335,6 +284,36 @@
         "color-body-text": "#052333",
         "margin-top": 32,
         "margin-bottom": 32
+      }
+    },
+    "background_video_axipNV": {
+      "type": "background-video",
+      "name": "t:sections.background-video.presets.name",
+      "settings": {
+        "advanced_heading": true,
+        "heading": "",
+        "heading_richtext": "",
+        "full-width-enabled": false,
+        "video_hosted": "shopify://files/videos/NUTRADO - Intro - 01A.mp4",
+        "mobile_video_hosted": "shopify://files/videos/NUTRADO - Intro - 01A.mp4",
+        "autoplay": true,
+        "video_controls": false,
+        "video_custom_play_controls": true,
+        "video_custom_mute_controls": false,
+        "video_url": "https://www.youtube.com/watch?v=_9VUPq3SxOc",
+        "original_ratio": "fixed_height",
+        "desktop_fixed_height": 500,
+        "mobile_fixed_height": 320,
+        "color-body-heading": "#ffffff",
+        "color-overlay": "rgba(0,0,0,0)",
+        "color-overlay-opacity": 100,
+        "color-body-text": "#ffffff",
+        "desktop_text_vertical_position": "center",
+        "desktop_text_horizontal_position": "center",
+        "mobile_text_vertical_position": "center",
+        "mobile_text_horizontal_position": "center",
+        "margin-top": 20,
+        "margin-bottom": 20
       }
     },
     "shoppable_image_q6HT49": {
@@ -657,8 +636,8 @@
     "breadcrumbs",
     "main",
     "scrolling_text_banner_fpzKC9",
-    "background_video_axipNV",
     "benefits_product_fbMnEC",
+    "background_video_axipNV",
     "shoppable_image_q6HT49",
     "image_with_text_B9aDaR",
     "before_and_after_AFCUre",
