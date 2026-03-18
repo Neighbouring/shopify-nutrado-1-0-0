@@ -394,7 +394,7 @@
         "section-color-overlay": "rgba(0,0,0,0)",
         "section-color-overlay-opacity": 100,
         "color-body-text": "rgba(0,0,0,0)",
-        "color-overlay": "#f7efe3",
+        "color-overlay": "#f7f3df",
         "color-overlay-opacity": 100,
         "desktop_text_vertical_position": "center",
         "desktop_text_horizontal_position": "center",
@@ -409,7 +409,7 @@
         "heading_FhBHJN": {
           "type": "heading",
           "settings": {
-            "heading": "Image with text",
+            "heading": "CUIDADO EXTRA EM CADA CÁPSULA",
             "disable_on_mobile": false,
             "size_heading": 100,
             "size_heading_mobile": 100
@@ -418,7 +418,7 @@
         "text_TNPUiw": {
           "type": "text",
           "settings": {
-            "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.</p>",
+            "text": "<p>Nossos suplementos são elaborados com um compromisso absoluto com a pureza, sendo fabricados de forma a minimizar o uso de ingredientes adicionais durante o processo de encapsulamento.</p>",
             "text_style": "body",
             "disable_on_mobile": false
           }
@@ -428,30 +428,20 @@
           "settings": {
             "full-width-enabled": true,
             "desktop_text_horizontal_position": "left",
-            "mobile_layout": "column",
+            "mobile_layout": "row",
             "mobile_text_horizontal_position": "left",
             "metafield": "",
-            "table_content": "Feature name:\nShort description\n\nSecond feature name:\nDetail line 1\nDetail line 2 \nDetail line 3",
-            "color-background-odd": "#f4f4f4",
+            "table_content": "Feature name:\nShort description\n\nSecond feature name:\nDetail line 1\nDetail line 2 \nDetail line 3\n\nSecond feature name:\nDetail line 1\nDetail line 2 \nDetail line 3",
+            "color-background-odd": "{{ product.metafields.custom.cor_de_fundo_produto.value }}",
             "color-text-odd": "#000",
             "color-text-left-opacity": 100
-          }
-        },
-        "button_BpFgmk": {
-          "type": "button",
-          "settings": {
-            "button_select": "primary",
-            "button_label": "Button label",
-            "button_link": "/",
-            "disable_on_mobile": false
           }
         }
       },
       "block_order": [
         "heading_FhBHJN",
         "text_TNPUiw",
-        "table_w3iRgJ",
-        "button_BpFgmk"
+        "table_w3iRgJ"
       ],
       "name": "t:sections.image-with-text.presets.name__3",
       "settings": {
@@ -465,9 +455,9 @@
         "desktop_fixed_height": 320,
         "mobile_fixed_height": 460,
         "section-color-body-text": "transparent",
-        "section-color-overlay": "transparent",
+        "section-color-overlay": "#f7f3df",
         "section-color-overlay-opacity": 100,
-        "color-body-text": "transparent",
+        "color-body-text": "#f7f3df",
         "color-overlay": "transparent",
         "color-overlay-opacity": 100,
         "desktop_text_vertical_position": "center",
@@ -560,7 +550,7 @@
           "settings": {
             "advanced_heading": true,
             "heading": "FAQ",
-            "heading_richtext": "<h1><strong>FAQ</strong></h1>",
+            "heading_richtext": "<h1>Os ingredientes importam</h1>",
             "disable_on_mobile": false,
             "size_heading": 200,
             "size_heading_mobile": 150,
