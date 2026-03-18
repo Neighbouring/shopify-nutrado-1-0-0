@@ -36,7 +36,7 @@
           "type": "text",
           "settings": {
             "heading": "",
-            "content": "<p>{{ product.metafields.custom.comercial_title.value }}</p>",
+            "content": "<h5>{{ product.metafields.custom.comercial_title.value }}</h5>",
             "page": ""
           }
         },
