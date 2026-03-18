@@ -548,11 +548,51 @@
         "paragraph_afW3hE",
         "email_form_gr8qVy"
       ],
+      "disabled": true,
       "settings": {
         "color-body-text": "rgba(0,0,0,0)",
         "background_color": "#edf5f4",
         "margin-top": 100,
         "margin-bottom": 100
+      }
+    },
+    "newsletter_THpGcz": {
+      "type": "newsletter",
+      "blocks": {
+        "heading_Bzhzy3": {
+          "type": "heading",
+          "settings": {
+            "heading": "Inscreva-se agora!",
+            "heading_disable_on_mobile": false,
+            "size_heading": 200,
+            "size_heading_mobile": 150
+          }
+        },
+        "paragraph_GxCCwN": {
+          "type": "paragraph",
+          "settings": {
+            "paragraph": "<p>Receba todas as nossas novidades e ofertas</p>",
+            "text_disable_on_mobile": false
+          }
+        },
+        "email_form_dF7UWT": {
+          "type": "email_form",
+          "settings": {
+            "button_select": "secondary",
+            "button_label": "Enviar"
+          }
+        }
+      },
+      "block_order": [
+        "heading_Bzhzy3",
+        "paragraph_GxCCwN",
+        "email_form_dF7UWT"
+      ],
+      "settings": {
+        "color-body-text": "#111111",
+        "background_color": "#f6a74a",
+        "margin-top": 16,
+        "margin-bottom": 16
       }
     }
   },
@@ -564,6 +604,7 @@
     "before_and_after_AFCUre",
     "image_with_text_WxXpEB",
     "video_reels_dqWnMm",
-    "newsletter_dznx9H"
+    "newsletter_dznx9H",
+    "newsletter_THpGcz"
   ]
 }
