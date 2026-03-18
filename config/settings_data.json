@@ -62,6 +62,8 @@
     "currency_code_enabled": true,
     "iconset": "option_3",
     "enable-bag-icon": false,
+    "custom-badge-1-input": "",
+    "custom-badge-2-input": "",
     "animations": true,
     "disabled_animations_on_mobile": false,
     "content_for_index": []

@@ -28,8 +28,8 @@
           "settings": {
             "brand": "{{ product.metafields.custom.quantity_caps.value }}",
             "enable_vendor_link": false,
-            "size_text": 140,
-            "size_text_mobile": 100
+            "size_text": 200,
+            "size_text_mobile": 150
           }
         },
         "feature_tags_44iTGm": {
