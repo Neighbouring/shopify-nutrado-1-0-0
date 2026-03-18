@@ -133,6 +133,7 @@
         },
         "upsell_Fzh866": {
           "type": "upsell",
+          "disabled": true,
           "settings": {
             "heading": "Você também vai querer levar",
             "product_upsell": [
