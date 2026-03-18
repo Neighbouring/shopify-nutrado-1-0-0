@@ -107,8 +107,8 @@
             "show_dynamic_checkout": false,
             "show_gift_card_recipient": true,
             "show_qty_selector": true,
-            "text_color": "rgba(0,0,0,0)",
-            "background_color": "rgba(0,0,0,0)"
+            "text_color": "#f7f3df",
+            "background_color": "{{ product.metafields.custom.cor_de_fundo_produto.value }}"
           }
         },
         "promo_67ttgj": {
