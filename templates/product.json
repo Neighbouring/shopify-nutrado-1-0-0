@@ -403,63 +403,78 @@
         "margin-bottom": 0
       }
     },
-    "image_with_text_WxXpEB": {
+    "image_with_text_B9aDaR": {
       "type": "image-with-text",
       "blocks": {
-        "heading_WcihaF": {
+        "heading_FhBHJN": {
           "type": "heading",
           "settings": {
-            "heading": "Your Daily Routine",
+            "heading": "Image with text",
             "disable_on_mobile": false,
-            "size_heading": 200,
+            "size_heading": 100,
             "size_heading_mobile": 100
           }
         },
-        "text_gYtHLC": {
+        "text_TNPUiw": {
           "type": "text",
           "settings": {
-            "text": "<p>Discover products for daily care.</p>",
+            "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.</p>",
             "text_style": "body",
             "disable_on_mobile": false
           }
         },
-        "button_KUwMHB": {
+        "table_w3iRgJ": {
+          "type": "table",
+          "settings": {
+            "full-width-enabled": true,
+            "desktop_text_horizontal_position": "left",
+            "mobile_layout": "column",
+            "mobile_text_horizontal_position": "left",
+            "metafield": "",
+            "table_content": "Feature name:\nShort description\n\nSecond feature name:\nDetail line 1\nDetail line 2 \nDetail line 3",
+            "color-background-odd": "#f4f4f4",
+            "color-text-odd": "#000",
+            "color-text-left-opacity": 100
+          }
+        },
+        "button_BpFgmk": {
           "type": "button",
           "settings": {
             "button_select": "primary",
-            "button_label": "Check now",
-            "button_link": "",
+            "button_label": "Button label",
+            "button_link": "/",
             "disable_on_mobile": false
           }
         }
       },
       "block_order": [
-        "heading_WcihaF",
-        "text_gYtHLC",
-        "button_KUwMHB"
+        "heading_FhBHJN",
+        "text_TNPUiw",
+        "table_w3iRgJ",
+        "button_BpFgmk"
       ],
-      "disabled": true,
+      "name": "t:sections.image-with-text.presets.name__3",
       "settings": {
         "advanced_heading": false,
         "title": "",
         "heading_richtext": "<h2>Your headline here</h2>",
-        "layout": "image_first",
+        "layout": "text_first",
         "desktop-percentage-image-width": 50,
-        "full-width-enabled": true,
-        "slide_height": "adapt_to_first_image",
+        "full-width-enabled": false,
+        "slide_height": "fixed_height",
         "desktop_fixed_height": 320,
         "mobile_fixed_height": 460,
-        "section-color-body-text": "rgba(0,0,0,0)",
-        "section-color-overlay": "rgba(0,0,0,0)",
+        "section-color-body-text": "transparent",
+        "section-color-overlay": "transparent",
         "section-color-overlay-opacity": 100,
-        "color-body-text": "rgba(0,0,0,0)",
-        "color-overlay": "#e5f8f8",
+        "color-body-text": "transparent",
+        "color-overlay": "transparent",
         "color-overlay-opacity": 100,
         "desktop_text_vertical_position": "center",
         "desktop_text_horizontal_position": "center",
         "mobile_text_horizontal_position": "center",
-        "margin-top": 0,
-        "margin-bottom": 60
+        "margin-top": 20,
+        "margin-bottom": 20
       }
     },
     "video_reels_Wrqg99": {
@@ -583,7 +598,7 @@
     "background_video_axipNV",
     "benefits_product_fbMnEC",
     "before_and_after_AFCUre",
-    "image_with_text_WxXpEB",
+    "image_with_text_B9aDaR",
     "video_reels_Wrqg99",
     "newsletter_THpGcz"
   ]
