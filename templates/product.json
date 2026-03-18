@@ -627,7 +627,7 @@
       "name": "t:sections.collapsible_menu.presets.name",
       "settings": {
         "color-body-text": "#052333",
-        "background_color": "#f7f3df",
+        "background_color": "#f4f4f4",
         "compact-size-enabled": true,
         "margin-top": 0,
         "margin-bottom": 32
