@@ -56,14 +56,6 @@
             "page": ""
           }
         },
-        "text_MDgTn4": {
-          "type": "text",
-          "settings": {
-            "heading": "",
-            "content": "<p>{{ product.metafields.custom.beneficios | metafield_tag }}</p>",
-            "page": ""
-          }
-        },
         "appstle_bundles_appstle_volume_discount_bundle_xNEQhJ": {
           "type": "shopify://apps/appstle-bundles/blocks/appstle-volume-discount-bundle/8909921b-2d24-4d68-9b12-9d045d3dcb0a",
           "settings": {}
@@ -109,17 +101,18 @@
             "background_color": "#f6a74a"
           }
         },
-        "description": {
-          "type": "description",
-          "disabled": true,
+        "collapsible_tab_7KtLVR": {
+          "type": "collapsible_tab",
           "settings": {
-            "is_open": true,
+            "heading": "Benefícios",
+            "content": "<p>{{ product.metafields.custom.beneficios | metafield_tag }}</p>",
+            "metafield_variables": "",
+            "page": "",
             "icon": "none"
           }
         },
         "5fed6e0f-fb7e-4874-8ba9-3321623fc828": {
           "type": "collapsible_tab",
-          "disabled": true,
           "settings": {
             "heading": "Ingredientes",
             "content": "<p>{{ product.metafields.custom.ingredientes | metafield_tag }}</p>",
@@ -128,63 +121,26 @@
             "icon": "none"
           }
         },
-        "promo_67ttgj": {
-          "type": "promo",
-          "disabled": true,
+        "collapsible_tab_Ej8z8n": {
+          "type": "collapsible_tab",
           "settings": {
-            "content": "<p>🎟️ Use code \"Beauty\" for 10% OFF!</p>",
-            "text_alignment": "center",
-            "color-body-text": "#a04848",
-            "background_color": "#f6f2ea"
-          }
-        },
-        "payments_badge_EFynmG": {
-          "type": "payments_badge",
-          "disabled": true,
-          "settings": {
-            "content": "",
-            "desktop_text_horizontal_position": "center",
-            "badge_type": "payment_icons",
-            "color-body-text": "rgba(0,0,0,0)",
-            "background_color": "rgba(0,0,0,0)"
-          }
-        },
-        "e23830b4-3ca6-452f-a7d1-cb245a3e9282": {
-          "type": "bulletpoints",
-          "disabled": true,
-          "settings": {
-            "metafield": "custom.features",
-            "default_text": ""
-          }
-        },
-        "video_reels_fUDDgA": {
-          "type": "video_reels",
-          "disabled": true,
-          "settings": {
-            "heading": "Complete your beauty ritual",
-            "show_play_pause": true,
-            "show_unmute": true,
-            "auto_advanced": false,
-            "enable_quick_add": true,
-            "hide_brand": false,
-            "video_reels_1_product": "",
-            "video_reels_2_product": "",
-            "video_reels_3_product": "",
-            "video_reels_4_product": "",
-            "video_reels_5_product": "",
-            "video_reels_6_product": ""
+            "heading": "Como tomar o suplemento?",
+            "content": "<p>{{ product.metafields.custom.como_tomar | metafield_tag }}</p>",
+            "metafield_variables": "",
+            "page": "",
+            "icon": "none"
           }
         },
         "upsell_Fzh866": {
           "type": "upsell",
           "settings": {
-            "heading": "Frequentemente associado a",
+            "heading": "Você também vai querer levar",
             "product_upsell": [
               "beauty"
             ],
             "show_vendor": false,
-            "image-ratio": "original",
-            "button_select": "link"
+            "image-ratio": "square",
+            "button_select": "primary"
           }
         }
       },
@@ -193,17 +149,13 @@
         "rating",
         "feature_tags_44iTGm",
         "text_BFUWnW",
-        "text_MDgTn4",
         "appstle_bundles_appstle_volume_discount_bundle_xNEQhJ",
         "price",
         "variant_picker",
         "buy_buttons",
-        "description",
+        "collapsible_tab_7KtLVR",
         "5fed6e0f-fb7e-4874-8ba9-3321623fc828",
-        "promo_67ttgj",
-        "payments_badge_EFynmG",
-        "e23830b4-3ca6-452f-a7d1-cb245a3e9282",
-        "video_reels_fUDDgA",
+        "collapsible_tab_Ej8z8n",
         "upsell_Fzh866"
       ],
       "custom_css": [],
