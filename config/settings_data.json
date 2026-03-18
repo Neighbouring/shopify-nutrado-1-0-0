@@ -59,8 +59,11 @@
     "free_shipping_bar_amount": "150",
     "free_shipping_bar_text": "Adicione ||amount|| e Ganhe Frete Grátis!",
     "free_shipping_bar_text_success": "Você Ganhou Frete Grátis!",
-    "currency_code_enabled": false,
-    "iconset": "option_1",
+    "currency_code_enabled": true,
+    "iconset": "option_3",
+    "enable-bag-icon": false,
+    "animations": true,
+    "disabled_animations_on_mobile": true,
     "content_for_index": []
   }
 }
