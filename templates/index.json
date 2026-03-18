@@ -388,8 +388,8 @@
         "button_horizontal_position": "center",
         "button_label": "View all products",
         "button_link": "shopify://collections/all",
-        "margin-top": 12,
-        "margin-bottom": 28,
+        "margin-top": 16,
+        "margin-bottom": 16,
         "background_color": "#f7f3df"
       }
     },
@@ -418,12 +418,12 @@
         "show_secondary_image": true,
         "show_vendor": false,
         "enable_vendor_link": false,
-        "show_product_rating": false,
+        "show_product_rating": true,
         "enable_quick_add_button": true,
-        "color-body-text": "#052333",
-        "background_color": "#ffffff",
+        "color-body-text": "#000000",
+        "background_color": "#f7f3df",
         "margin-top": 16,
-        "margin-bottom": 60
+        "margin-bottom": 16
       }
     },
     "product_slider_URct6q": {
@@ -433,14 +433,15 @@
           "type": "product",
           "settings": {
             "slider_product": "coenzima-q10",
-            "text_color": "",
-            "background_color": "#5dab71",
+            "product_image": "shopify://shop_images/q10.png",
+            "text_color": "#000000",
+            "background_color": "#449e5f",
             "heading": "Revitalizes the Skin!",
             "text": "<p>yu i gnmnbmbnbn</p>",
             "promo_text_color": "#5dab71",
             "desktop_image": "shopify://shop_images/g.avif",
             "desktop_text_vertical_position": "center",
-            "desktop_text_horizontal_position": "left",
+            "desktop_text_horizontal_position": "center",
             "mobile_text_horizontal_position": "center"
           }
         },
@@ -448,15 +449,15 @@
           "type": "product",
           "settings": {
             "slider_product": "duomag",
-            "product_image": "shopify://shop_images/f.avif",
-            "text_color": "rgba(0,0,0,0)",
-            "background_color": "rgba(0,0,0,0)",
-            "heading": "Your headline",
-            "text": "<p>Tell your story</p>",
-            "promo_text_color": "#5dab71",
+            "product_image": "shopify://shop_images/mag.png",
+            "text_color": "#f7f3df",
+            "background_color": "#b57619",
+            "heading": "{{ block.settings.slider_product.title }}",
+            "text": "<p>{{ block.settings.slider_product.metafields.custom.subtitulo_de_produto.value }}</p>",
+            "promo_text_color": "#b57619",
             "desktop_image": "shopify://shop_images/f.avif",
             "desktop_text_vertical_position": "center",
-            "desktop_text_horizontal_position": "left",
+            "desktop_text_horizontal_position": "center",
             "mobile_image": "shopify://shop_images/f.avif",
             "mobile_text_horizontal_position": "center"
           }
