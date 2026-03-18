@@ -56,6 +56,14 @@
             "page": ""
           }
         },
+        "text_MDgTn4": {
+          "type": "text",
+          "settings": {
+            "heading": "",
+            "content": "<p>{{ product.metafields.custom.beneficios | metafield_tag }}</p>",
+            "page": ""
+          }
+        },
         "appstle_bundles_appstle_volume_discount_bundle_xNEQhJ": {
           "type": "shopify://apps/appstle-bundles/blocks/appstle-volume-discount-bundle/8909921b-2d24-4d68-9b12-9d045d3dcb0a",
           "settings": {}
@@ -185,6 +193,7 @@
         "rating",
         "feature_tags_44iTGm",
         "text_BFUWnW",
+        "text_MDgTn4",
         "appstle_bundles_appstle_volume_discount_bundle_xNEQhJ",
         "price",
         "variant_picker",
