@@ -160,8 +160,8 @@
         "show-thumbnails-mobile": false,
         "text_color": "#052333",
         "background_color": "rgba(0,0,0,0)",
-        "margin-top": 32,
-        "margin-bottom": 32
+        "margin-top": 40,
+        "margin-bottom": 40
       }
     },
     "scrolling_text_banner_fpzKC9": {
@@ -184,7 +184,7 @@
         "advanced_heading": false,
         "heading": "",
         "heading_richtext": "<h2>Your headline here</h2>",
-        "full-width-enabled": false,
+        "full-width-enabled": true,
         "animation_speed": 1,
         "slide_height": "fixed_height",
         "desktop_fixed_height": 100,
@@ -252,8 +252,8 @@
         "desktop_text_horizontal_position": "center",
         "mobile_text_vertical_position": "center",
         "mobile_text_horizontal_position": "center",
-        "margin-top": 32,
-        "margin-bottom": 40
+        "margin-top": 20,
+        "margin-bottom": 20
       }
     },
     "benefits_product_fbMnEC": {
