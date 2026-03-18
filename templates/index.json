@@ -803,13 +803,21 @@
             "desktop_image": "shopify://shop_images/nutrado_05.09_5.webp",
             "link": ""
           }
+        },
+        "image_838qBF": {
+          "type": "image",
+          "settings": {
+            "desktop_image": "shopify://shop_images/nutrado_05.09_1_1.webp",
+            "link": ""
+          }
         }
       },
       "block_order": [
         "image_YKXhhH",
         "image_LHt8nF",
         "image_pHt6wW",
-        "image_7fAWGp"
+        "image_7fAWGp",
+        "image_838qBF"
       ],
       "name": "t:sections.marquee_images.name",
       "settings": {
