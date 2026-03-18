@@ -26,7 +26,7 @@
         "title": {
           "type": "title",
           "settings": {
-            "brand": "{{ product.metafields.custom.quantity_caps.value }}",
+            "brand": "{{ product.metafields.custom.title_suplement_type.value }}",
             "enable_vendor_link": false,
             "size_text": 200,
             "size_text_mobile": 150
