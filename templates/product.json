@@ -95,8 +95,8 @@
             "show_dynamic_checkout": false,
             "show_gift_card_recipient": true,
             "show_qty_selector": true,
-            "text_color": "#052333",
-            "background_color": "#f6a74a"
+            "text_color": "#f4f4f4",
+            "background_color": "#052333"
           }
         },
         "collapsible_tab_7KtLVR": {
