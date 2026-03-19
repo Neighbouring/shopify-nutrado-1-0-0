@@ -24,14 +24,14 @@
         "menu_DzCNd6": {
           "type": "menu",
           "settings": {
-            "heading_links": "Meu painel",
+            "heading_links": "Painel",
             "links": "customer-account-main-menu"
           }
         },
         "menu_9YUhCX": {
           "type": "menu",
           "settings": {
-            "heading_links": "Categorias",
+            "heading_links": "Vitminas",
             "links": "main-menu"
           }
         },
