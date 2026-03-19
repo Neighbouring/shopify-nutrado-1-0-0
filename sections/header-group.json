@@ -96,7 +96,7 @@
         "sticky_header_always": true,
         "header_bg_opacity": 5,
         "header_bg_blur": 25,
-        "header_always_blurred": true,
+        "header_always_blurred": false,
         "show_line_separator": false,
         "show_shadow": true,
         "logo": "shopify://shop_images/nutrado-logotipo-02.svg",
