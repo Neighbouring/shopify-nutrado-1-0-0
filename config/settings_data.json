@@ -73,7 +73,7 @@
     "hide_checkout_button": true,
     "enable_cross_sells": true,
     "cross_sells_collapsed": false,
-    "heading_cross_sells": "Isso Também é Saúde",
+    "heading_cross_sells": "Isso é saúde!",
     "product_limit_cross_sells": 5,
     "collection_cross_sells": "mais-vendidos",
     "product_list_cross_sells": [
