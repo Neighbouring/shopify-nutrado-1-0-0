@@ -21,18 +21,18 @@
             "text": "<p>A Nutrado nasceu da união entre 60 anos de tradição industrial e o futuro da Wellness Technology. </p><p>Nossa missão é tornar o mundo naturalmente saudável através de nutracêuticos de alta pureza, com soluções inteligentes para que seu corpo funcione em total harmonia, garantindo a saúde e a disposição necessárias para você #ViverBonsMomentos com saúde.</p>"
           }
         },
+        "menu_hX3qaD": {
+          "type": "menu",
+          "settings": {
+            "heading_links": "Produtos",
+            "links": "nutrado"
+          }
+        },
         "menu_TyWCqJ": {
           "type": "menu",
           "settings": {
             "heading_links": "Ajuda?",
             "links": "precisa-de-ajuda"
-          }
-        },
-        "menu_hX3qaD": {
-          "type": "menu",
-          "settings": {
-            "heading_links": "Sobre",
-            "links": "nutrado"
           }
         },
         "newsletter_R8K9Df": {
@@ -47,8 +47,8 @@
       },
       "block_order": [
         "text_DY7pny",
-        "menu_TyWCqJ",
         "menu_hX3qaD",
+        "menu_TyWCqJ",
         "newsletter_R8K9Df"
       ],
       "settings": {
