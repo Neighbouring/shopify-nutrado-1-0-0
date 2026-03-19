@@ -105,6 +105,8 @@
     "social_instagram_link": "https://www.instagram.com/nutradobr",
     "social_tiktok_link": "https://www.tiktok.com/@nutrado",
     "social_youtube_link": "",
+    "show_product_vendor": false,
+    "show_product_price": false,
     "custom-badge-1-input": "",
     "custom-badge-2-input": "",
     "animations": true,
