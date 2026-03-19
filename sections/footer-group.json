@@ -14,25 +14,18 @@
     "footer": {
       "type": "page-footer",
       "blocks": {
+        "text_DY7pny": {
+          "type": "text",
+          "settings": {
+            "heading_text": "Nutrado",
+            "text": "<p>A Nutrado nasceu da união entre 60 anos de tradição industrial e o futuro da Wellness Technology. </p><p>Nossa missão é tornar o mundo naturalmente saudável através de nutracêuticos de alta pureza, com soluções inteligentes para que seu corpo funcione em total harmonia, garantindo a saúde e a disposição necessárias para você #ViverBonsMomentos com saúde.</p>"
+          }
+        },
         "menu_TyWCqJ": {
           "type": "menu",
           "settings": {
             "heading_links": "Ajuda?",
             "links": "precisa-de-ajuda"
-          }
-        },
-        "menu_DzCNd6": {
-          "type": "menu",
-          "settings": {
-            "heading_links": "Painel",
-            "links": "customer-account-main-menu"
-          }
-        },
-        "menu_9YUhCX": {
-          "type": "menu",
-          "settings": {
-            "heading_links": "Vitminas",
-            "links": "main-menu"
           }
         },
         "menu_hX3qaD": {
@@ -42,21 +35,21 @@
             "links": "nutrado"
           }
         },
-        "text_DY7pny": {
-          "type": "text",
-          "disabled": true,
+        "newsletter_R8K9Df": {
+          "type": "newsletter",
           "settings": {
-            "heading_text": "About Us",
-            "text": "<p>We could not have created this demo without the help of an amazing source of content and products. Visit our about page to find out where all the products used in this demo care from.   <a href=\"/pages/about-us\" title=\"About us\">More Info</a></p>"
+            "heading_newsletter": "Conecte-se! 🧘‍♀️ 🥗 🏃‍♀ 🍎 🔆",
+            "text_newsletter": "<p>Acompanhe nossa jornada, nossos novos produtos, dicas de saúde e ofertas para #ViverBonsMomentos </p>",
+            "button_type": "primary",
+            "button_label": ""
           }
         }
       },
       "block_order": [
+        "text_DY7pny",
         "menu_TyWCqJ",
-        "menu_DzCNd6",
-        "menu_9YUhCX",
         "menu_hX3qaD",
-        "text_DY7pny"
+        "newsletter_R8K9Df"
       ],
       "settings": {
         "show-scroll-effect": true,
