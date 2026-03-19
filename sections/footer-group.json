@@ -40,7 +40,7 @@
           "settings": {
             "heading_newsletter": "Conecte-se! 🧘‍♀️ 🥗 🏃‍♀ 🍎 🔆",
             "text_newsletter": "<p>Acompanhe nossa jornada, nossos novos produtos, dicas de saúde e ofertas para #ViverBonsMomentos </p>",
-            "button_type": "secondary",
+            "button_type": "primary",
             "button_label": "Inscreva-se!"
           }
         }
