@@ -28,7 +28,7 @@
           "settings": {
             "brand": "{{ product.metafields.custom.title_suplement_type.value }}",
             "enable_vendor_link": false,
-            "size_text": 200,
+            "size_text": 300,
             "size_text_mobile": 150
           }
         },
@@ -62,31 +62,10 @@
         "price": {
           "type": "price",
           "settings": {
-            "show_tax_included": true,
-            "show_shipping_policy": true,
-            "size_text": 150,
-            "size_text_mobile": 150
-          }
-        },
-        "variant_picker": {
-          "type": "variant_picker",
-          "disabled": true,
-          "settings": {
-            "picker_type": "button",
-            "color_swatch_names": "",
-            "variant_picture_swatch_names": "",
-            "thumb_size": 60,
-            "radius": "default",
-            "border_radius": 0,
-            "dropdown_swatch_names": "",
-            "margin-top": 8,
-            "margin-bottom": 8,
-            "size_icon": "check_mark",
-            "size_link": "",
-            "variant_name": "",
-            "size_content": "",
-            "metafield": "",
-            "enable-striped-rows": true
+            "show_tax_included": false,
+            "show_shipping_policy": false,
+            "size_text": 220,
+            "size_text_mobile": 140
           }
         },
         "buy_buttons": {
@@ -137,7 +116,6 @@
         "text_BFUWnW",
         "appstle_bundles_appstle_volume_discount_bundle_xNEQhJ",
         "price",
-        "variant_picker",
         "buy_buttons",
         "collapsible_tab_7KtLVR",
         "5fed6e0f-fb7e-4874-8ba9-3321623fc828",
