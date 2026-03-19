@@ -73,13 +73,18 @@
     "hide_checkout_button": true,
     "enable_cross_sells": true,
     "cross_sells_collapsed": false,
-    "heading_cross_sells": "Isso é saúde!",
-    "product_limit_cross_sells": 5,
+    "show_vendor": false,
+    "heading_cross_sells": "Mais Saúde?",
+    "product_limit_cross_sells": 7,
     "collection_cross_sells": "mais-vendidos",
     "product_list_cross_sells": [
-      "kit-essencial",
-      "q-energy",
-      "imune"
+      "creatina-creavitalis®",
+      "beauty",
+      "coenzima-q10",
+      "l-teanina",
+      "sleep",
+      "vit-b",
+      "vizio"
     ],
     "enable_free_shipping_bar": true,
     "free_shipping_bar_amount": "150",
