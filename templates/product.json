@@ -144,7 +144,7 @@
         "collapsible_tab_Ej8z8n"
       ],
       "custom_css": [
-        "img.wt-product__img.wt-product__img--zoom-cursor {background-color: aquamarine;}"
+        "img.wt-product__img.wt-product__img--zoom-cursor {background-color: lightgray;}"
       ],
       "settings": {
         "enable_sticky_buy_button": true,
