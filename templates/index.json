@@ -254,7 +254,7 @@
         "heading": "",
         "heading_richtext": "<h2>Your headline here</h2>",
         "full-width-enabled": true,
-        "animation_speed": 1,
+        "animation_speed": 3,
         "slide_height": "fixed_height",
         "desktop_fixed_height": 100,
         "mobile_fixed_height": 100,
