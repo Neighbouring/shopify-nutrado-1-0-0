@@ -19,7 +19,7 @@
         "image_ratio": "adapt",
         "column_alignment": "left",
         "columns_desktop": "3",
-        "button_select": "primary",
+        "button_select": "secondary",
         "size_heading": 100,
         "size_heading_mobile": 100,
         "margin-top": 20,
