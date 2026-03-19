@@ -224,10 +224,10 @@
         "desktop_text_horizontal_position": "center",
         "rotation": 15,
         "image_1": "shopify://shop_images/nutrado_05.09_13.webp",
-        "button_link1": "",
+        "button_link1": "shopify://collections/all",
         "image_2": "shopify://shop_images/nutrado_05.09_2.webp",
-        "button_link2": "",
-        "color-body-text": "#111111",
+        "button_link2": "shopify://collections/all",
+        "color-body-text": "#052333",
         "background_color": "#f4f4f4",
         "margin-top": 0,
         "margin-bottom": 100
