@@ -141,7 +141,7 @@
         "text_color": "#052333",
         "background_color": "#f4f4f4",
         "margin-top": 40,
-        "margin-bottom": 40
+        "margin-bottom": 100
       }
     },
     "scrolling_text_banner_fpzKC9": {
@@ -264,8 +264,8 @@
         "color-overlay": "#f4f4f4",
         "color-overlay-opacity": 100,
         "color-body-text": "#052333",
-        "margin-top": 32,
-        "margin-bottom": 32
+        "margin-top": 100,
+        "margin-bottom": 240
       }
     },
     "background_video_axipNV": {
