@@ -101,7 +101,7 @@
         "collapsible_tab_Ej8z8n": {
           "type": "collapsible_tab",
           "settings": {
-            "heading": "Como tomar o suplemento?",
+            "heading": "Como Tomar o Suplemento?",
             "content": "<p>{{ product.metafields.custom.como_tomar | metafield_tag }}</p>",
             "metafield_variables": "",
             "page": "",
