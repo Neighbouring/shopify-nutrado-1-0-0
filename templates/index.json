@@ -262,8 +262,8 @@
         "enable_quick_add_button": true,
         "color-body-text": "#052333",
         "background_color": "#f4f4f4",
-        "margin-top": 100,
-        "margin-bottom": 40
+        "margin-top": 0,
+        "margin-bottom": 100
       }
     },
     "scrolling_text_banner_RjbenN": {
