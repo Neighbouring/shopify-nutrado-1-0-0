@@ -284,7 +284,7 @@
         "video_url": "",
         "original_ratio": "fixed_height",
         "desktop_fixed_height": 500,
-        "mobile_fixed_height": 320,
+        "mobile_fixed_height": 460,
         "color-body-heading": "#ffffff",
         "color-overlay": "#f4f4f4",
         "color-overlay-opacity": 100,
