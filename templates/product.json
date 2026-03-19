@@ -191,7 +191,6 @@
         "benefit_NHJhhT": {
           "type": "benefit",
           "settings": {
-            "image": "shopify://shop_images/imgi_20_9d817de7-2b46-4cf9-bd0c-174d5c56b842.webp",
             "item_heading": "Nicotinamida",
             "text": "<p>Ajuda a uniformizar o tom da pele, reduzir manchas e restaurar o viço natural. Também fortalece a barreira cutânea e combate os sinais do tempo.</p>"
           }
@@ -280,7 +279,7 @@
         "mobile_video_hosted": "shopify://files/videos/NUTRADO - Intro - 01A.mp4",
         "autoplay": true,
         "video_controls": false,
-        "video_custom_play_controls": true,
+        "video_custom_play_controls": false,
         "video_custom_mute_controls": false,
         "video_url": "",
         "original_ratio": "fixed_height",
