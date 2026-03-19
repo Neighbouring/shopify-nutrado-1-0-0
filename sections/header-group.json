@@ -114,9 +114,9 @@
         "show_language_selector": false,
         "drawer_title": "Comprar por",
         "enable_submenu_link_in_drawer": true,
-        "typing_search": "Encontrar um produto...",
-        "suggestions_title": "Mais Vendidos",
-        "suggestions_menu": "nutrado"
+        "typing_search": "O que deseja encontrar?",
+        "suggestions_title": "",
+        "suggestions_menu": ""
       }
     },
     "page_header_logo_banner_DJLpfi": {
