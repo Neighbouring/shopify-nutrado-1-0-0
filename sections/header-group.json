@@ -43,7 +43,7 @@
       ],
       "settings": {
         "marquee": true,
-        "animation_speed": "100",
+        "animation_speed": "150",
         "checkbox_close_announcement": true,
         "color-body-text": "#f4f4f4",
         "background_color": "#052333"
