@@ -194,14 +194,14 @@
           "settings": {
             "heading": "Saúde, sua maior riqueza!",
             "disable_on_mobile": false,
-            "size_heading": 210,
-            "size_heading_mobile": 120
+            "size_heading": 220,
+            "size_heading_mobile": 130
           }
         },
         "text_FPNX9w": {
           "type": "text",
           "settings": {
-            "text": "<p>Na Nutrado, acreditamos que a saúde não é apenas uma meta, mas a nossa maior riqueza. Unimos 60 anos de tradição industrial à inovação da <em>Wellness Technology</em> para entregar nutrientes que despertam a plena potência do seu corpo. Tudo para que você tenha energia e equilíbrio para desfrutar o que a vida tem de melhor.</p>",
+            "text": "<h2>Na Nutrado, acreditamos que a saúde não é apenas uma meta, mas a nossa maior riqueza. Unimos 60 anos de tradição industrial à inovação da <em>Wellness Technology</em> para entregar nutrientes que despertam a plena potência do seu corpo. Tudo para que você tenha energia e equilíbrio para desfrutar o que a vida tem de melhor.</h2>",
             "disable_on_mobile": false
           }
         },
