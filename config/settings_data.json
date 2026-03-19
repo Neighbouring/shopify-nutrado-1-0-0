@@ -10,8 +10,8 @@
 {
   "current": {
     "favicon": "shopify://shop_images/favicon-nutrado-01.svg",
-    "radius": 10,
-    "button-radius": 10,
+    "radius": 20,
+    "button-radius": 5,
     "color-background": "#ffffff",
     "color-headings-text": "#052333",
     "color-body-text": "#052333",
@@ -67,6 +67,7 @@
     "custom_font_base": "",
     "custom_font_button": "",
     "cart_show_order_note": false,
+    "cart_show_additional_service": true,
     "cart_additional_service_name": "Embalagem Para Presente",
     "show_view_cart": false,
     "collection_cross_sells": "mais-vendidos",
