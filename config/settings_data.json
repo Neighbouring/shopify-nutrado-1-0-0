@@ -121,6 +121,7 @@
     "custom-badge-4-input": "Origem Natural",
     "custom-badge-4-label": "Origem Natural",
     "animations": true,
+    "animations_pictures": true,
     "disabled_animations_on_mobile": false,
     "content_for_index": [],
     "blocks": {
