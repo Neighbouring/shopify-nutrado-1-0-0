@@ -185,6 +185,24 @@
         "margin-bottom": 0
       }
     },
+    "separator_dPtHc6": {
+      "type": "separator",
+      "name": "t:sections.separator.presets.name",
+      "settings": {
+        "advanced_heading": false,
+        "heading": "",
+        "heading_richtext": "<h2>Separator</h2>",
+        "size_heading": 100,
+        "size_heading_mobile": 100,
+        "show-separator-line": false,
+        "full-width-line": false,
+        "color-background": "#000000",
+        "color-body-text": "transparent",
+        "color-section-background": "transparent",
+        "margin-top": 20,
+        "margin-bottom": 20
+      }
+    },
     "benefits_product_fbMnEC": {
       "type": "benefits-product",
       "blocks": {
@@ -490,6 +508,7 @@
     "breadcrumbs",
     "main",
     "scrolling_text_banner_fpzKC9",
+    "separator_dPtHc6",
     "benefits_product_fbMnEC",
     "image_with_text_B9aDaR",
     "background_video_axipNV",
