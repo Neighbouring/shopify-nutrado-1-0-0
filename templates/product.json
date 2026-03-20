@@ -294,7 +294,7 @@
         "text_TNPUiw": {
           "type": "text",
           "settings": {
-            "text": "<p>Nossos suplementos são elaborados com um compromisso absoluto com a pureza, sendo fabricados de forma a minimizar o uso de ingredientes adicionais durante o processo de encapsulamento.</p>",
+            "text": "<p>Nossos suplementos são elaborados com um compromisso absoluto com a pureza e minimizam o uso de ingredientes adicionais durante o processo de encapsulamento.</p>",
             "text_style": "subtitle",
             "disable_on_mobile": false
           }
