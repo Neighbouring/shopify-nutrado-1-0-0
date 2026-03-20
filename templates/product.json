@@ -235,7 +235,7 @@
       "settings": {
         "advanced_heading": true,
         "heading": "Ingredientes",
-        "heading_richtext": "<h1>Ingredientes</h1>",
+        "heading_richtext": "<h2>Ingredientes Naturais</h2>",
         "full-width-enabled": false,
         "mobile_image": "shopify://shop_images/image-1098320420012767-2.png",
         "desktop_image": "shopify://shop_images/image-1098320410012768-2.png",
