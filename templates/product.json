@@ -258,36 +258,6 @@
         "margin-bottom": 240
       }
     },
-    "background_video_axipNV": {
-      "type": "background-video",
-      "name": "t:sections.background-video.presets.name",
-      "settings": {
-        "advanced_heading": true,
-        "heading": "",
-        "heading_richtext": "",
-        "full-width-enabled": true,
-        "video_hosted": "shopify://files/videos/NUTRADO - Intro - 01A.mp4",
-        "mobile_video_hosted": "shopify://files/videos/NUTRADO - Intro - 01A.mp4",
-        "autoplay": true,
-        "video_controls": false,
-        "video_custom_play_controls": false,
-        "video_custom_mute_controls": false,
-        "video_url": "",
-        "original_ratio": "fixed_height",
-        "desktop_fixed_height": 500,
-        "mobile_fixed_height": 460,
-        "color-body-heading": "#ffffff",
-        "color-overlay": "#f4f4f4",
-        "color-overlay-opacity": 100,
-        "color-body-text": "#ffffff",
-        "desktop_text_vertical_position": "center",
-        "desktop_text_horizontal_position": "center",
-        "mobile_text_vertical_position": "center",
-        "mobile_text_horizontal_position": "center",
-        "margin-top": 0,
-        "margin-bottom": 0
-      }
-    },
     "image_with_text_B9aDaR": {
       "type": "image-with-text",
       "blocks": {
@@ -342,6 +312,36 @@
         "mobile_text_horizontal_position": "center",
         "margin-top": 100,
         "margin-bottom": 100
+      }
+    },
+    "background_video_axipNV": {
+      "type": "background-video",
+      "name": "t:sections.background-video.presets.name",
+      "settings": {
+        "advanced_heading": true,
+        "heading": "",
+        "heading_richtext": "",
+        "full-width-enabled": true,
+        "video_hosted": "shopify://files/videos/NUTRADO - Intro - 01A.mp4",
+        "mobile_video_hosted": "shopify://files/videos/NUTRADO - Intro - 01A.mp4",
+        "autoplay": true,
+        "video_controls": false,
+        "video_custom_play_controls": false,
+        "video_custom_mute_controls": false,
+        "video_url": "",
+        "original_ratio": "fixed_height",
+        "desktop_fixed_height": 500,
+        "mobile_fixed_height": 460,
+        "color-body-heading": "#ffffff",
+        "color-overlay": "#f4f4f4",
+        "color-overlay-opacity": 100,
+        "color-body-text": "#ffffff",
+        "desktop_text_vertical_position": "center",
+        "desktop_text_horizontal_position": "center",
+        "mobile_text_vertical_position": "center",
+        "mobile_text_horizontal_position": "center",
+        "margin-top": 0,
+        "margin-bottom": 0
       }
     },
     "video_reels_Wrqg99": {
@@ -491,8 +491,8 @@
     "main",
     "scrolling_text_banner_fpzKC9",
     "benefits_product_fbMnEC",
-    "background_video_axipNV",
     "image_with_text_B9aDaR",
+    "background_video_axipNV",
     "video_reels_Wrqg99",
     "rich_text_Fx9gH6",
     "collapsible_menu_FneFH8"
