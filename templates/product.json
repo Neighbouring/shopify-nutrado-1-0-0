@@ -222,14 +222,6 @@
             "item_heading": "Ácido Hialurônico",
             "text": "<p>Hidrata a pele em profundidade, promovendo volume, elasticidade e viço. Atua na retenção de água dentro das células, devolvendo o aspecto jovem e saudável.<br/></p>"
           }
-        },
-        "benefit_pWigYz": {
-          "type": "benefit",
-          "disabled": true,
-          "settings": {
-            "item_heading": "Saiba mais",
-            "text": "<p>...<br/></p>"
-          }
         }
       },
       "block_order": [
@@ -237,8 +229,7 @@
         "benefit_WpTbd9",
         "benefit_TxDR8i",
         "benefit_rRagEV",
-        "benefit_iY6k6j",
-        "benefit_pWigYz"
+        "benefit_iY6k6j"
       ],
       "name": "t:sections.benefits_product.name",
       "settings": {
