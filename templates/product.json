@@ -346,7 +346,7 @@
         "color-overlay": "#f4f4f4",
         "color-overlay-opacity": 100,
         "desktop_image": "{{ product.featured_image }}",
-        "desktop_text_vertical_position": "top",
+        "desktop_text_vertical_position": "center",
         "desktop_text_horizontal_position": "center",
         "mobile_text_horizontal_position": "center",
         "margin-top": 32,
