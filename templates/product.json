@@ -291,20 +291,11 @@
     "image_with_text_B9aDaR": {
       "type": "image-with-text",
       "blocks": {
-        "heading_FhBHJN": {
-          "type": "heading",
-          "settings": {
-            "heading": "CUIDADO EXTRA EM CADA CÁPSULA",
-            "disable_on_mobile": false,
-            "size_heading": 100,
-            "size_heading_mobile": 100
-          }
-        },
         "text_TNPUiw": {
           "type": "text",
           "settings": {
             "text": "<p>Nossos suplementos são elaborados com um compromisso absoluto com a pureza, sendo fabricados de forma a minimizar o uso de ingredientes adicionais durante o processo de encapsulamento.</p>",
-            "text_style": "body",
+            "text_style": "subtitle",
             "disable_on_mobile": false
           }
         },
@@ -324,7 +315,6 @@
         }
       },
       "block_order": [
-        "heading_FhBHJN",
         "text_TNPUiw",
         "table_w3iRgJ"
       ],
@@ -332,13 +322,13 @@
       "settings": {
         "advanced_heading": true,
         "title": "",
-        "heading_richtext": "",
+        "heading_richtext": "<h2>Saúde em Cada Cápsula</h2>",
         "layout": "text_first",
         "desktop-percentage-image-width": 50,
         "full-width-enabled": false,
-        "slide_height": "adapt_to_first_image",
-        "desktop_fixed_height": 360,
-        "mobile_fixed_height": 460,
+        "slide_height": "fixed_height",
+        "desktop_fixed_height": 500,
+        "mobile_fixed_height": 300,
         "section-color-body-text": "#052333",
         "section-color-overlay": "#f4f4f4",
         "section-color-overlay-opacity": 100,
