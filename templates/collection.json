@@ -123,6 +123,7 @@
         "image_McECbz": {
           "type": "image",
           "settings": {
+            "desktop_image": "shopify://shop_images/icons8-cupom-100.png",
             "select_icon": "bag",
             "heading": "Segurança",
             "text": "<p>Certificado SSL e Status de Navegação Segura do Google</p>",
