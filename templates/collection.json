@@ -113,9 +113,10 @@
         "image_VGUkeA": {
           "type": "image",
           "settings": {
+            "desktop_image": "shopify://shop_images/brasil.png",
             "select_icon": "bag",
-            "heading": "Natural",
-            "text": "<p>We only use the finest natural ingredients.</p>",
+            "heading": "Entrega em todo o Brasil",
+            "text": "<p>Receba os produtos da Nutrado emqualquerlugar.</p>",
             "link": ""
           }
         },
