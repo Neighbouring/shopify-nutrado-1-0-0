@@ -32,6 +32,42 @@
             "size_text_mobile": 150
           }
         },
+        "rating": {
+          "type": "rating",
+          "name": "Avaliações",
+          "settings": {}
+        },
+        "image_3XfC9K": {
+          "type": "image",
+          "settings": {
+            "desktop_image": "shopify://shop_images/Image_hd6b46hd6b46hd6b.png",
+            "select_icon": "bag",
+            "heading": "",
+            "size_heading": 100,
+            "size_heading_mobile": 100,
+            "text": "<p>Items you love at prices that fit your budget.</p>",
+            "link": "",
+            "margin-top": 20,
+            "margin-bottom": 20
+          }
+        },
+        "bulletpoints_QEpddG": {
+          "type": "bulletpoints",
+          "settings": {
+            "metafield": "",
+            "default_text": "Imunidade\nDisposição\nSaciedade"
+          }
+        },
+        "information_popup_XpFLRE": {
+          "type": "information_popup",
+          "settings": {
+            "size_icon": "check_mark",
+            "size_link": "Imunidade",
+            "size_content": "sobre",
+            "metafield": "",
+            "enable-striped-rows": true
+          }
+        },
         "text_NFVtLp": {
           "type": "text",
           "settings": {
@@ -39,11 +75,6 @@
             "content": "<h5>{{ product.metafields.custom.comercial_title.value }}</h5>",
             "page": ""
           }
-        },
-        "rating": {
-          "type": "rating",
-          "name": "Avaliações",
-          "settings": {}
         },
         "text_BFUWnW": {
           "type": "text",
@@ -111,8 +142,11 @@
       },
       "block_order": [
         "title",
-        "text_NFVtLp",
         "rating",
+        "image_3XfC9K",
+        "bulletpoints_QEpddG",
+        "information_popup_XpFLRE",
+        "text_NFVtLp",
         "text_BFUWnW",
         "appstle_bundles_appstle_volume_discount_bundle_xNEQhJ",
         "price",
