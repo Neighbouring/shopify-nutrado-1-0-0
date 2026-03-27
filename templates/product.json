@@ -307,10 +307,10 @@
         "color-overlay-opacity": 100,
         "desktop_image": "shopify://shop_images/Image_5341dv5341dv5341-2.png",
         "desktop_text_vertical_position": "center",
-        "desktop_text_horizontal_position": "center",
+        "desktop_text_horizontal_position": "left",
         "mobile_image": "shopify://shop_images/Image_8huu4k8huu4k8huu.png",
         "mobile_text_horizontal_position": "center",
-        "margin-top": 100,
+        "margin-top": 0,
         "margin-bottom": 100
       }
     },
