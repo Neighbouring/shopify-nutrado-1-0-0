@@ -362,72 +362,6 @@
         "margin-bottom": 0
       }
     },
-    "features_banner_NGJxhM": {
-      "type": "features-banner",
-      "blocks": {
-        "image_3UjJdq": {
-          "type": "image",
-          "settings": {
-            "select_icon": "bag",
-            "heading": "Banner title",
-            "text": "<p>Items you love at prices that fit your budget.</p>",
-            "link": ""
-          }
-        },
-        "image_ErJNRW": {
-          "type": "image",
-          "settings": {
-            "select_icon": "bag",
-            "heading": "Banner title",
-            "text": "<p>Items you love at prices that fit your budget.</p>",
-            "link": ""
-          }
-        },
-        "image_3LVGxR": {
-          "type": "image",
-          "settings": {
-            "select_icon": "bag",
-            "heading": "Banner title",
-            "text": "<p>Items you love at prices that fit your budget.</p>",
-            "link": ""
-          }
-        },
-        "image_96f7ht": {
-          "type": "image",
-          "settings": {
-            "select_icon": "bag",
-            "heading": "Banner title",
-            "text": "<p>Items you love at prices that fit your budget.</p>",
-            "link": ""
-          }
-        }
-      },
-      "block_order": [
-        "image_3UjJdq",
-        "image_ErJNRW",
-        "image_3LVGxR",
-        "image_96f7ht"
-      ],
-      "name": "t:sections.features-banner.settings.presets.name",
-      "settings": {
-        "advanced_heading": false,
-        "heading": "Features banner",
-        "heading_richtext": "<h2>Your headline here</h2>",
-        "size_heading_mobile": 80,
-        "size_heading": 80,
-        "icon_width_mobile": 36,
-        "icon_width_desktop": 48,
-        "icon_layout": "center",
-        "columns_desktop": "4",
-        "icon_layout_mobile": "grid",
-        "color_body_icon": "transparent",
-        "color_background_icon": "transparent",
-        "color_body_text": "transparent",
-        "background_color": "#f4f4f4",
-        "margin-top": 20,
-        "margin-bottom": 100
-      }
-    },
     "separator_TKTBYq": {
       "type": "separator",
       "name": "t:sections.separator.presets.name",
@@ -654,6 +588,90 @@
         "margin-top": 0,
         "margin-bottom": 100
       }
+    },
+    "features_banner_NGJxhM": {
+      "type": "features-banner",
+      "blocks": {
+        "image_3UjJdq": {
+          "type": "image",
+          "settings": {
+            "select_icon": "bag",
+            "heading": "Banner title",
+            "text": "<p>Items you love at prices that fit your budget.</p>",
+            "link": ""
+          }
+        },
+        "image_ErJNRW": {
+          "type": "image",
+          "settings": {
+            "select_icon": "bag",
+            "heading": "Banner title",
+            "text": "<p>Items you love at prices that fit your budget.</p>",
+            "link": ""
+          }
+        },
+        "image_3LVGxR": {
+          "type": "image",
+          "settings": {
+            "select_icon": "bag",
+            "heading": "Banner title",
+            "text": "<p>Items you love at prices that fit your budget.</p>",
+            "link": ""
+          }
+        },
+        "image_96f7ht": {
+          "type": "image",
+          "settings": {
+            "select_icon": "bag",
+            "heading": "Banner title",
+            "text": "<p>Items you love at prices that fit your budget.</p>",
+            "link": ""
+          }
+        }
+      },
+      "block_order": [
+        "image_3UjJdq",
+        "image_ErJNRW",
+        "image_3LVGxR",
+        "image_96f7ht"
+      ],
+      "name": "t:sections.features-banner.settings.presets.name",
+      "settings": {
+        "advanced_heading": false,
+        "heading": "Features banner",
+        "heading_richtext": "<h2>Your headline here</h2>",
+        "size_heading_mobile": 80,
+        "size_heading": 80,
+        "icon_width_mobile": 36,
+        "icon_width_desktop": 48,
+        "icon_layout": "center",
+        "columns_desktop": "4",
+        "icon_layout_mobile": "grid",
+        "color_body_icon": "rgba(0,0,0,0)",
+        "color_background_icon": "rgba(0,0,0,0)",
+        "color_body_text": "rgba(0,0,0,0)",
+        "background_color": "#f4f4f4",
+        "margin-top": 20,
+        "margin-bottom": 100
+      }
+    },
+    "separator_tJ77Ut": {
+      "type": "separator",
+      "name": "t:sections.separator.presets.name",
+      "settings": {
+        "advanced_heading": false,
+        "heading": "",
+        "heading_richtext": "<h2>Separator</h2>",
+        "size_heading": 100,
+        "size_heading_mobile": 100,
+        "show-separator-line": false,
+        "full-width-line": false,
+        "color-background": "rgba(0,0,0,0)",
+        "color-body-text": "rgba(0,0,0,0)",
+        "color-section-background": "rgba(0,0,0,0)",
+        "margin-top": 100,
+        "margin-bottom": 0
+      }
     }
   },
   "order": [
@@ -666,9 +684,10 @@
     "background_video_axipNV",
     "separator_TKTBYq",
     "video_reels_Wrqg99",
-    "features_banner_NGJxhM",
     "rich_text_Fx9gH6",
     "separator_jdcRzG",
-    "collapsible_menu_FneFH8"
+    "collapsible_menu_FneFH8",
+    "features_banner_NGJxhM",
+    "separator_tJ77Ut"
   ]
 }
