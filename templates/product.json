@@ -73,6 +73,24 @@
           "disabled": true,
           "settings": {}
         },
+        "product_variations_PQTYEW": {
+          "type": "product_variations",
+          "settings": {
+            "option_name": "Potencialize sua saúde:",
+            "picker_type": "swatch",
+            "swatch_size": 50,
+            "radius": "default",
+            "border_radius": 0,
+            "option_value_metafield": "",
+            "products": [
+              "glutamina",
+              "curcumina",
+              "creatina-creavitalis®",
+              "coenzima-q10",
+              "beauty"
+            ]
+          }
+        },
         "price": {
           "type": "price",
           "settings": {
@@ -94,6 +112,7 @@
         },
         "upsell_KfbxXH": {
           "type": "upsell",
+          "disabled": true,
           "settings": {
             "heading": "Potencialize sua imunidade!",
             "product_upsell": [
@@ -156,6 +175,7 @@
         "text_NFVtLp",
         "text_BFUWnW",
         "appstle_bundles_appstle_volume_discount_bundle_xNEQhJ",
+        "product_variations_PQTYEW",
         "price",
         "buy_buttons",
         "upsell_KfbxXH",
