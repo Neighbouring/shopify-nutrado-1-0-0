@@ -75,6 +75,7 @@
         },
         "product_variations_PQTYEW": {
           "type": "product_variations",
+          "disabled": true,
           "settings": {
             "option_name": "Potencialize sua saúde:",
             "picker_type": "swatch",
