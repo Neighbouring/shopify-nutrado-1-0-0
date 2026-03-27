@@ -95,7 +95,7 @@
         "image_LpU9LC": {
           "type": "image",
           "settings": {
-            "select_icon": "bag",
+            "select_icon": "heart",
             "heading": "Vegano",
             "text": "<p>Todos os nossos produtos são veganos e com atestado de origem.</p>",
             "link": ""
@@ -105,8 +105,8 @@
           "type": "image",
           "settings": {
             "select_icon": "bag",
-            "heading": "Fast & Free Shipping",
-            "text": "<p>Doorstep delivery to most of the US.</p>",
+            "heading": "Parcelamento",
+            "text": "<p>Pague em até 6x sem juros no cartão de créditoou à vista no pix ou boleto.</p>",
             "link": ""
           }
         },
@@ -123,8 +123,8 @@
           "type": "image",
           "settings": {
             "select_icon": "bag",
-            "heading": "Recyclable",
-            "text": "<p>All packaging is recyclable and eco conscious.</p>",
+            "heading": "Segurança",
+            "text": "<p>Certificado SSL e Status de Navegação Segura do Google</p>",
             "link": ""
           }
         }
