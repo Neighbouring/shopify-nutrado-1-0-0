@@ -61,6 +61,9 @@
     },
     "product-grid": {
       "type": "main-collection-product-grid",
+      "custom_css": [
+        ".collection__toolbar.collection__toolbar--buttons, .collection__sticky-header.collection__sticky-header--buttons {background-color: #f4f4f4;}"
+      ],
       "settings": {
         "products_per_page": 24,
         "columns_mobile": "2",
@@ -68,8 +71,8 @@
         "spacing_desktop": "8",
         "full-width-enabled": false,
         "spacing_mobile": "16",
-        "image_ratio": "square",
-        "show_video": false,
+        "image_ratio": "adapt",
+        "show_video": true,
         "show_secondary_image": true,
         "show_vendor": true,
         "enable_vendor_link": true,
