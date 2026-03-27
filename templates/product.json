@@ -510,8 +510,8 @@
         "collapsible_tab_dfLHVQ": {
           "type": "collapsible_tab",
           "settings": {
-            "heading": "FAQ1",
-            "content": "<p>a</p>",
+            "heading": "Quantas cápsulas devo tomar?",
+            "content": "<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Mauris consectetur, justo eget congue aliquam, mi nunc sagittis tellus, eu ullamcorper augue odio ultricies metus. Cras in consectetur mauris. Morbi pulvinar purus ac nisi congue, ac euismod dui congue. Duis porta tellus ut interdum porta. Curabitur lacinia nulla sed ornare porttitor. Maecenas placerat quis est quis suscipit. Praesent sit amet dui efficitur, rutrum lacus fermentum, ornare mauris.</p>",
             "page": "",
             "icon": "check_mark"
           }
@@ -519,8 +519,53 @@
         "collapsible_tab_ykTkYa": {
           "type": "collapsible_tab",
           "settings": {
-            "heading": "FAQ2",
-            "content": "<p>A</p>",
+            "heading": "É indicado para crianças?",
+            "content": "<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Mauris consectetur, justo eget congue aliquam, mi nunc sagittis tellus, eu ullamcorper augue odio ultricies metus. Cras in consectetur mauris. Morbi pulvinar purus ac nisi congue, ac euismod dui congue. Duis porta tellus ut interdum porta. Curabitur lacinia nulla sed ornare porttitor. Maecenas placerat quis est quis suscipit. Praesent sit amet dui efficitur, rutrum lacus fermentum, ornare mauris.</p>",
+            "page": "",
+            "icon": "check_mark"
+          }
+        },
+        "collapsible_tab_FkBCKd": {
+          "type": "collapsible_tab",
+          "settings": {
+            "heading": "É seguro se ingerido com alcool?",
+            "content": "<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Mauris consectetur, justo eget congue aliquam, mi nunc sagittis tellus, eu ullamcorper augue odio ultricies metus. Cras in consectetur mauris. Morbi pulvinar purus ac nisi congue, ac euismod dui congue. Duis porta tellus ut interdum porta. Curabitur lacinia nulla sed ornare porttitor. Maecenas placerat quis est quis suscipit. Praesent sit amet dui efficitur, rutrum lacus fermentum, ornare mauris.</p>",
+            "page": "",
+            "icon": "check_mark"
+          }
+        },
+        "collapsible_tab_anezjm": {
+          "type": "collapsible_tab",
+          "settings": {
+            "heading": "Gestante pode suplementar?",
+            "content": "<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Mauris consectetur, justo eget congue aliquam, mi nunc sagittis tellus, eu ullamcorper augue odio ultricies metus. Cras in consectetur mauris. Morbi pulvinar purus ac nisi congue, ac euismod dui congue. Duis porta tellus ut interdum porta. Curabitur lacinia nulla sed ornare porttitor. Maecenas placerat quis est quis suscipit. Praesent sit amet dui efficitur, rutrum lacus fermentum, ornare mauris.</p>",
+            "page": "",
+            "icon": "check_mark"
+          }
+        },
+        "collapsible_tab_rjURUb": {
+          "type": "collapsible_tab",
+          "settings": {
+            "heading": "Existe efeito colateral?",
+            "content": "<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Mauris consectetur, justo eget congue aliquam, mi nunc sagittis tellus, eu ullamcorper augue odio ultricies metus. Cras in consectetur mauris. Morbi pulvinar purus ac nisi congue, ac euismod dui congue. Duis porta tellus ut interdum porta. Curabitur lacinia nulla sed ornare porttitor. Maecenas placerat quis est quis suscipit. Praesent sit amet dui efficitur, rutrum lacus fermentum, ornare mauris.</p>",
+            "page": "",
+            "icon": "check_mark"
+          }
+        },
+        "collapsible_tab_yHEnmz": {
+          "type": "collapsible_tab",
+          "settings": {
+            "heading": "Tem aditivo químico?",
+            "content": "<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Mauris consectetur, justo eget congue aliquam, mi nunc sagittis tellus, eu ullamcorper augue odio ultricies metus. Cras in consectetur mauris. Morbi pulvinar purus ac nisi congue, ac euismod dui congue. Duis porta tellus ut interdum porta. Curabitur lacinia nulla sed ornare porttitor. Maecenas placerat quis est quis suscipit. Praesent sit amet dui efficitur, rutrum lacus fermentum, ornare mauris.</p>",
+            "page": "",
+            "icon": "check_mark"
+          }
+        },
+        "collapsible_tab_AB7zAd": {
+          "type": "collapsible_tab",
+          "settings": {
+            "heading": "É testado em animais?",
+            "content": "<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Mauris consectetur, justo eget congue aliquam, mi nunc sagittis tellus, eu ullamcorper augue odio ultricies metus. Cras in consectetur mauris. Morbi pulvinar purus ac nisi congue, ac euismod dui congue. Duis porta tellus ut interdum porta. Curabitur lacinia nulla sed ornare porttitor. Maecenas placerat quis est quis suscipit. Praesent sit amet dui efficitur, rutrum lacus fermentum, ornare mauris.</p>",
             "page": "",
             "icon": "check_mark"
           }
@@ -528,7 +573,12 @@
       },
       "block_order": [
         "collapsible_tab_dfLHVQ",
-        "collapsible_tab_ykTkYa"
+        "collapsible_tab_ykTkYa",
+        "collapsible_tab_FkBCKd",
+        "collapsible_tab_anezjm",
+        "collapsible_tab_rjURUb",
+        "collapsible_tab_yHEnmz",
+        "collapsible_tab_AB7zAd"
       ],
       "name": "t:sections.collapsible_menu.presets.name",
       "settings": {
@@ -536,6 +586,72 @@
         "background_color": "#f4f4f4",
         "compact-size-enabled": true,
         "margin-top": 0,
+        "margin-bottom": 100
+      }
+    },
+    "features_banner_NGJxhM": {
+      "type": "features-banner",
+      "blocks": {
+        "image_3UjJdq": {
+          "type": "image",
+          "settings": {
+            "select_icon": "bag",
+            "heading": "Banner title",
+            "text": "<p>Items you love at prices that fit your budget.</p>",
+            "link": ""
+          }
+        },
+        "image_ErJNRW": {
+          "type": "image",
+          "settings": {
+            "select_icon": "bag",
+            "heading": "Banner title",
+            "text": "<p>Items you love at prices that fit your budget.</p>",
+            "link": ""
+          }
+        },
+        "image_3LVGxR": {
+          "type": "image",
+          "settings": {
+            "select_icon": "bag",
+            "heading": "Banner title",
+            "text": "<p>Items you love at prices that fit your budget.</p>",
+            "link": ""
+          }
+        },
+        "image_96f7ht": {
+          "type": "image",
+          "settings": {
+            "select_icon": "bag",
+            "heading": "Banner title",
+            "text": "<p>Items you love at prices that fit your budget.</p>",
+            "link": ""
+          }
+        }
+      },
+      "block_order": [
+        "image_3UjJdq",
+        "image_ErJNRW",
+        "image_3LVGxR",
+        "image_96f7ht"
+      ],
+      "name": "t:sections.features-banner.settings.presets.name",
+      "settings": {
+        "advanced_heading": false,
+        "heading": "Features banner",
+        "heading_richtext": "<h2>Your headline here</h2>",
+        "size_heading_mobile": 80,
+        "size_heading": 80,
+        "icon_width_mobile": 36,
+        "icon_width_desktop": 48,
+        "icon_layout": "center",
+        "columns_desktop": "4",
+        "icon_layout_mobile": "grid",
+        "color_body_icon": "transparent",
+        "color_background_icon": "transparent",
+        "color_body_text": "transparent",
+        "background_color": "#f4f4f4",
+        "margin-top": 20,
         "margin-bottom": 100
       }
     }
@@ -552,6 +668,7 @@
     "video_reels_Wrqg99",
     "rich_text_Fx9gH6",
     "separator_jdcRzG",
-    "collapsible_menu_FneFH8"
+    "collapsible_menu_FneFH8",
+    "features_banner_NGJxhM"
   ]
 }
