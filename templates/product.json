@@ -595,36 +595,40 @@
         "image_3UjJdq": {
           "type": "image",
           "settings": {
+            "desktop_image": "shopify://shop_images/vegan.png",
             "select_icon": "bag",
-            "heading": "Banner title",
-            "text": "<p>Items you love at prices that fit your budget.</p>",
+            "heading": "Vegano",
+            "text": "<p>Todos os nossos produtos são veganos e com atestado de origem.</p>",
             "link": ""
           }
         },
         "image_ErJNRW": {
           "type": "image",
           "settings": {
+            "desktop_image": "shopify://shop_images/cartao-de-credito.png",
             "select_icon": "bag",
-            "heading": "Banner title",
-            "text": "<p>Items you love at prices that fit your budget.</p>",
+            "heading": "Parcelamento",
+            "text": "<p>Pague em até 6x sem juros no cartão de créditoou à vista no pix ou boleto.</p>",
             "link": ""
           }
         },
         "image_3LVGxR": {
           "type": "image",
           "settings": {
+            "desktop_image": "shopify://shop_images/brasil.png",
             "select_icon": "bag",
-            "heading": "Banner title",
-            "text": "<p>Items you love at prices that fit your budget.</p>",
+            "heading": "Entrega em todo o Brasil",
+            "text": "<p>Receba os produtos da Nutrado emqualquerlugar.</p>",
             "link": ""
           }
         },
         "image_96f7ht": {
           "type": "image",
           "settings": {
+            "desktop_image": "shopify://shop_images/comercio-e-compras.png",
             "select_icon": "bag",
-            "heading": "Banner title",
-            "text": "<p>Items you love at prices that fit your budget.</p>",
+            "heading": "Segurança",
+            "text": "<p>Certificado SSL e Status de Navegação Segura do Google.</p>",
             "link": ""
           }
         }
