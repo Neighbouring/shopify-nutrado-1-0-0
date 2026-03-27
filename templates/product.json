@@ -326,8 +326,8 @@
         "show-separator-line": false,
         "full-width-line": false,
         "color-background": "#000000",
-        "color-body-text": "transparent",
-        "color-section-background": "transparent",
+        "color-body-text": "rgba(0,0,0,0)",
+        "color-section-background": "rgba(0,0,0,0)",
         "margin-top": 52,
         "margin-bottom": 0
       }
@@ -374,8 +374,8 @@
         "show-separator-line": false,
         "full-width-line": false,
         "color-background": "#000000",
-        "color-body-text": "transparent",
-        "color-section-background": "transparent",
+        "color-body-text": "rgba(0,0,0,0)",
+        "color-section-background": "rgba(0,0,0,0)",
         "margin-top": 40,
         "margin-bottom": 0
       }
@@ -486,6 +486,24 @@
         "margin-bottom": 0
       }
     },
+    "separator_jdcRzG": {
+      "type": "separator",
+      "name": "t:sections.separator.presets.name",
+      "settings": {
+        "advanced_heading": false,
+        "heading": "",
+        "heading_richtext": "<h2>Separator</h2>",
+        "size_heading": 100,
+        "size_heading_mobile": 100,
+        "show-separator-line": false,
+        "full-width-line": false,
+        "color-background": "#000000",
+        "color-body-text": "rgba(0,0,0,0)",
+        "color-section-background": "rgba(0,0,0,0)",
+        "margin-top": 0,
+        "margin-bottom": 100
+      }
+    },
     "collapsible_menu_FneFH8": {
       "type": "collapsible_menu",
       "blocks": {
@@ -520,24 +538,6 @@
         "margin-top": 0,
         "margin-bottom": 100
       }
-    },
-    "separator_jdcRzG": {
-      "type": "separator",
-      "name": "t:sections.separator.presets.name",
-      "settings": {
-        "advanced_heading": false,
-        "heading": "",
-        "heading_richtext": "<h2>Separator</h2>",
-        "size_heading": 100,
-        "size_heading_mobile": 100,
-        "show-separator-line": false,
-        "full-width-line": false,
-        "color-background": "#000000",
-        "color-body-text": "transparent",
-        "color-section-background": "transparent",
-        "margin-top": 0,
-        "margin-bottom": 100
-      }
     }
   },
   "order": [
@@ -551,7 +551,7 @@
     "separator_TKTBYq",
     "video_reels_Wrqg99",
     "rich_text_Fx9gH6",
-    "collapsible_menu_FneFH8",
-    "separator_jdcRzG"
+    "separator_jdcRzG",
+    "collapsible_menu_FneFH8"
   ]
 }
