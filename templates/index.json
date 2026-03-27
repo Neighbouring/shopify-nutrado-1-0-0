@@ -96,7 +96,7 @@
         "image_iyai4w": {
           "type": "image",
           "settings": {
-            "heading": "Magnésio",
+            "heading": "",
             "heading_disable_on_mobile": false,
             "size_heading": 130,
             "size_heading_mobile": 140,
@@ -110,10 +110,9 @@
             "color-body-text": "#111111",
             "color-overlay": "#6f99c3",
             "color-overlay-opacity": 20,
-            "video_hosted": "shopify://files/videos/vide-hero.mp4",
+            "video_hosted": "shopify://files/videos/202603262153 (2).mp4",
             "desktop_text_vertical_position": "bottom",
             "desktop_text_horizontal_position": "center",
-            "video_hosted_mobile": "shopify://files/videos/vide-hero.mp4",
             "mobile_text_vertical_position": "center",
             "mobile_text_horizontal_position": "center"
           }
