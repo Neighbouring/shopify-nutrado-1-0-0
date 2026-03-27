@@ -51,23 +51,6 @@
             "margin-bottom": 20
           }
         },
-        "bulletpoints_QEpddG": {
-          "type": "bulletpoints",
-          "settings": {
-            "metafield": "",
-            "default_text": "Imunidade\nDisposição\nSaciedade"
-          }
-        },
-        "information_popup_XpFLRE": {
-          "type": "information_popup",
-          "settings": {
-            "size_icon": "check_mark",
-            "size_link": "Imunidade",
-            "size_content": "sobre",
-            "metafield": "",
-            "enable-striped-rows": true
-          }
-        },
         "text_NFVtLp": {
           "type": "text",
           "settings": {
@@ -83,6 +66,16 @@
             "heading": "",
             "content": "{{ product.description }}",
             "page": ""
+          }
+        },
+        "information_popup_XpFLRE": {
+          "type": "information_popup",
+          "settings": {
+            "size_icon": "check_mark",
+            "size_link": "Aumenta a imunidade",
+            "size_content": "sobre",
+            "metafield": "",
+            "enable-striped-rows": true
           }
         },
         "appstle_bundles_appstle_volume_discount_bundle_xNEQhJ": {
@@ -144,10 +137,9 @@
         "title",
         "rating",
         "image_3XfC9K",
-        "bulletpoints_QEpddG",
-        "information_popup_XpFLRE",
         "text_NFVtLp",
         "text_BFUWnW",
+        "information_popup_XpFLRE",
         "appstle_bundles_appstle_volume_discount_bundle_xNEQhJ",
         "price",
         "buy_buttons",
