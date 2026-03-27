@@ -95,6 +95,7 @@
         "image_LpU9LC": {
           "type": "image",
           "settings": {
+            "desktop_image": "shopify://shop_images/vegan.png",
             "select_icon": "heart",
             "heading": "Vegano",
             "text": "<p>Todos os nossos produtos são veganos e com atestado de origem.</p>",
@@ -104,6 +105,7 @@
         "image_CKCXhM": {
           "type": "image",
           "settings": {
+            "desktop_image": "shopify://shop_images/cartao-de-credito.png",
             "select_icon": "bag",
             "heading": "Parcelamento",
             "text": "<p>Pague em até 6x sem juros no cartão de créditoou à vista no pix ou boleto.</p>",
