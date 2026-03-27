@@ -133,7 +133,7 @@
             "button_link_in_new_window": false,
             "color-body-text": "#111111",
             "color-overlay": "#6f99c3",
-            "color-overlay-opacity": 10,
+            "color-overlay-opacity": 5,
             "video_hosted": "shopify://files/videos/202603262153 (3).mp4",
             "desktop_text_vertical_position": "bottom",
             "desktop_text_horizontal_position": "center",
