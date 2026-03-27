@@ -117,30 +117,6 @@
             "mobile_text_horizontal_position": "center"
           }
         },
-        "dd981072-2de5-4a9b-a045-b39d179adb7a": {
-          "type": "image",
-          "settings": {
-            "heading": "",
-            "heading_disable_on_mobile": false,
-            "size_heading": 140,
-            "size_heading_mobile": 120,
-            "text": "Bisglicinato + Malato",
-            "text_disable_on_mobile": false,
-            "button_select": "link",
-            "button_label": "COENZIMA Q10",
-            "button_disable_on_mobile": false,
-            "button_link": "shopify://products/duomag",
-            "button_link_in_new_window": false,
-            "color-body-text": "#111111",
-            "color-overlay": "#f6a74a",
-            "color-overlay-opacity": 0,
-            "video_hosted": "shopify://files/videos/202603262153 (2).mp4",
-            "desktop_text_vertical_position": "bottom",
-            "desktop_text_horizontal_position": "center",
-            "mobile_text_vertical_position": "center",
-            "mobile_text_horizontal_position": "center"
-          }
-        },
         "1645137069a9c97a90-1": {
           "type": "image",
           "settings": {
@@ -164,12 +140,36 @@
             "mobile_text_vertical_position": "center",
             "mobile_text_horizontal_position": "center"
           }
+        },
+        "dd981072-2de5-4a9b-a045-b39d179adb7a": {
+          "type": "image",
+          "settings": {
+            "heading": "",
+            "heading_disable_on_mobile": false,
+            "size_heading": 140,
+            "size_heading_mobile": 120,
+            "text": "Bisglicinato + Malato",
+            "text_disable_on_mobile": false,
+            "button_select": "link",
+            "button_label": "COENZIMA Q10",
+            "button_disable_on_mobile": false,
+            "button_link": "shopify://products/duomag",
+            "button_link_in_new_window": false,
+            "color-body-text": "#111111",
+            "color-overlay": "#f6a74a",
+            "color-overlay-opacity": 0,
+            "video_hosted": "shopify://files/videos/woman-speaking-the-phrase-with-natural-lip-sync-an.mp4",
+            "desktop_text_vertical_position": "bottom",
+            "desktop_text_horizontal_position": "center",
+            "mobile_text_vertical_position": "center",
+            "mobile_text_horizontal_position": "center"
+          }
         }
       },
       "block_order": [
         "image_iyai4w",
-        "dd981072-2de5-4a9b-a045-b39d179adb7a",
-        "1645137069a9c97a90-1"
+        "1645137069a9c97a90-1",
+        "dd981072-2de5-4a9b-a045-b39d179adb7a"
       ],
       "settings": {
         "advanced_heading": false,
