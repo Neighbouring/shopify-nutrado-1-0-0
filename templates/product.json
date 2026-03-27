@@ -59,6 +59,39 @@
             "page": ""
           }
         },
+        "feature_icons_8RxWbe": {
+          "type": "feature_icons",
+          "disabled": true,
+          "settings": {
+            "layout_select": "row-left",
+            "show_icons_label": false,
+            "icon_1_image": "shopify://shop_images/icons8-desconto-50.png",
+            "icon_1_text": "<p>asasas</p>",
+            "icon_2_image": "shopify://shop_images/icons8-caminhao-50.png",
+            "icon_2_text": "",
+            "icon_3_image": "shopify://shop_images/icon-vitc.png",
+            "icon_3_text": "<p>Vitamina</p>",
+            "icon_4_image": "shopify://shop_images/vegan.png",
+            "icon_4_text": "",
+            "metafield": "",
+            "items_per_row_desktop": 2,
+            "icon_size_desktop": 48,
+            "size_text": 100,
+            "show_advanced_settings_desktop": false,
+            "icons_container_gap_desktop": 0,
+            "icon_container_width_desktop": 0,
+            "icon_margin_top_desktop": 0,
+            "icon_margin_bottom_desktop": 0,
+            "items_per_row": 2,
+            "icon_size_mobile": 40,
+            "size_text_mobile": 100,
+            "show_advanced_settings_mobile": false,
+            "icons_container_gap_mobile": 0,
+            "icon_container_width_mobile": 0,
+            "icon_margin_top_mobile": 0,
+            "icon_margin_bottom_mobile": 0
+          }
+        },
         "text_BFUWnW": {
           "type": "text",
           "name": "Descrição",
@@ -156,6 +189,15 @@
             "icon": "check_mark"
           }
         },
+        "feature_tags_DCPXc6": {
+          "type": "feature_tags",
+          "settings": {
+            "metafield": "",
+            "limit": 4,
+            "text_color": "rgba(0,0,0,0)",
+            "border_color": "rgba(0,0,0,0)"
+          }
+        },
         "share_buttons_hWCXFB": {
           "type": "share_buttons",
           "settings": {
@@ -173,6 +215,7 @@
         "rating",
         "image_3XfC9K",
         "text_NFVtLp",
+        "feature_icons_8RxWbe",
         "text_BFUWnW",
         "appstle_bundles_appstle_volume_discount_bundle_xNEQhJ",
         "product_variations_PQTYEW",
@@ -182,6 +225,7 @@
         "collapsible_tab_7KtLVR",
         "5fed6e0f-fb7e-4874-8ba9-3321623fc828",
         "collapsible_tab_Ej8z8n",
+        "feature_tags_DCPXc6",
         "share_buttons_hWCXFB"
       ],
       "custom_css": [
