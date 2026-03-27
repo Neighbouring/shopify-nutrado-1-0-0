@@ -43,9 +43,9 @@
             "desktop_image": "shopify://shop_images/Image_hd6b46hd6b46hd6b.png",
             "select_icon": "bag",
             "heading": "",
-            "size_heading": 100,
+            "size_heading": 50,
             "size_heading_mobile": 100,
-            "text": "<p>Items you love at prices that fit your budget.</p>",
+            "text": "<p>Sua necessidade diária de vitaminas e minerais.</p>",
             "link": "",
             "margin-top": 20,
             "margin-bottom": 20
@@ -75,7 +75,6 @@
         },
         "product_variations_PQTYEW": {
           "type": "product_variations",
-          "disabled": true,
           "settings": {
             "option_name": "Potencialize sua saúde:",
             "picker_type": "swatch",
