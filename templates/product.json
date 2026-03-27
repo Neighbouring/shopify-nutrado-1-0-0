@@ -68,16 +68,6 @@
             "page": ""
           }
         },
-        "information_popup_XpFLRE": {
-          "type": "information_popup",
-          "settings": {
-            "size_icon": "check_mark",
-            "size_link": "Aumenta a imunidade",
-            "size_content": "sobre",
-            "metafield": "",
-            "enable-striped-rows": true
-          }
-        },
         "appstle_bundles_appstle_volume_discount_bundle_xNEQhJ": {
           "type": "shopify://apps/appstle-bundles/blocks/appstle-volume-discount-bundle/8909921b-2d24-4d68-9b12-9d045d3dcb0a",
           "disabled": true,
@@ -100,6 +90,21 @@
             "show_qty_selector": true,
             "text_color": "#f4f4f4",
             "background_color": "#052333"
+          }
+        },
+        "upsell_KfbxXH": {
+          "type": "upsell",
+          "settings": {
+            "heading": "Potencialize sua imunidade!",
+            "product_upsell": [
+              "coenzima-q10",
+              "beauty",
+              "curcumina",
+              "glutamina"
+            ],
+            "show_vendor": false,
+            "image-ratio": "original",
+            "button_select": "link"
           }
         },
         "collapsible_tab_7KtLVR": {
@@ -131,6 +136,17 @@
             "page": "",
             "icon": "check_mark"
           }
+        },
+        "share_buttons_hWCXFB": {
+          "type": "share_buttons",
+          "settings": {
+            "heading": "Compartilhar",
+            "social_facebook_link": true,
+            "social_twitter_link": true,
+            "social_pinterest_link": true,
+            "social_whatsapp_link": true,
+            "mail_link": true
+          }
         }
       },
       "block_order": [
@@ -139,13 +155,14 @@
         "image_3XfC9K",
         "text_NFVtLp",
         "text_BFUWnW",
-        "information_popup_XpFLRE",
         "appstle_bundles_appstle_volume_discount_bundle_xNEQhJ",
         "price",
         "buy_buttons",
+        "upsell_KfbxXH",
         "collapsible_tab_7KtLVR",
         "5fed6e0f-fb7e-4874-8ba9-3321623fc828",
-        "collapsible_tab_Ej8z8n"
+        "collapsible_tab_Ej8z8n",
+        "share_buttons_hWCXFB"
       ],
       "custom_css": [
         "img.wt-product__img.wt-product__img--zoom-cursor {background-color: lightgray;}"
