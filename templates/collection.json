@@ -81,7 +81,7 @@
         "enable_quick_add_button": false,
         "text_alignment": "left",
         "toolbar_style": "buttons",
-        "enable_sorting": true,
+        "enable_sorting": false,
         "enable_filtering": true,
         "filter_position": "drawer",
         "open_first_filter": false,
