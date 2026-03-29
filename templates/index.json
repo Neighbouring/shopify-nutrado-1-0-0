@@ -105,7 +105,7 @@
             "button_select": "link",
             "button_label": "MAGNÉSIO",
             "button_disable_on_mobile": false,
-            "button_link": "shopify://products/duomag",
+            "button_link": "shopify://products/magnesio",
             "button_link_in_new_window": false,
             "color-body-text": "#111111",
             "color-overlay": "#6f99c3",
@@ -129,7 +129,7 @@
             "button_select": "link",
             "button_label": "CONEZIMA Q10",
             "button_disable_on_mobile": false,
-            "button_link": "shopify://products/duomag",
+            "button_link": "shopify://products/magnesio",
             "button_link_in_new_window": false,
             "color-body-text": "#111111",
             "color-overlay": "#6f99c3",
@@ -153,7 +153,7 @@
             "button_select": "link",
             "button_label": "BEAUTY",
             "button_disable_on_mobile": false,
-            "button_link": "shopify://products/duomag",
+            "button_link": "shopify://products/magnesio",
             "button_link_in_new_window": false,
             "color-body-text": "#111111",
             "color-overlay": "#6f99c3",
@@ -417,7 +417,7 @@
         "product_8JxXkK": {
           "type": "product",
           "settings": {
-            "slider_product": "duomag",
+            "slider_product": "magnesio",
             "product_image": "shopify://shop_images/mag.png",
             "text_color": "#ffffff",
             "background_color": "#b57619",
@@ -654,7 +654,7 @@
           "type": "product",
           "settings": {
             "start_second": 3,
-            "featured_product": "duomag"
+            "featured_product": "magnesio"
           }
         },
         "product_DyzE7d": {
@@ -719,14 +719,14 @@
           "type": "product",
           "settings": {
             "video_hosted": "shopify://files/videos/copy_D3B4E7A6-D600-4900-ABC7-2EE20EE609D0.mp4",
-            "featured_product": "duomag"
+            "featured_product": "magnesio"
           }
         },
         "product_AtNXwi": {
           "type": "product",
           "settings": {
             "video_hosted": "shopify://files/videos/02_UGC_Tiktok_Magnésio.mov",
-            "featured_product": "duomag"
+            "featured_product": "magnesio"
           }
         },
         "product_jDXyME": {
